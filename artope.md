@@ -22,13 +22,13 @@ permalink: /artope/
 
 [L'Art Opératif - Développements dans les théories de la guerre (Extraits choisis)](L'art opératif - Développements dans les théories de la guerre.pdf) - 1996
 
-Introduction, par M.A. Hennessy et B.J.C. McKercher
+- Introduction, par M.A. Hennessy et B.J.C. McKercher
 
-L'Art opératif : Développements dans les théories de la guerre, par John English
+- L'Art opératif : Développements dans les théories de la guerre, par John English
 
-Deux vues de Varsovie : La Guerre Civile russe et l'art opératif soviétique, 1920-1932, par Jacob Kipp
+- Deux vues de Varsovie : La Guerre Civile russe et l'art opératif soviétique, 1920-1932, par Jacob Kipp
 
-La Dimension intellectuelle de l'art opératif soviétique (russe), par David Glantz
+- La Dimension intellectuelle de l'art opératif soviétique (russe), par David Glantz
 
 
 
