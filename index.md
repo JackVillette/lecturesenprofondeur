@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Collection "Art Opératif"
+title:
 ---
 ## Georgi S. Isserson 
 
@@ -19,6 +19,11 @@ title: Collection "Art Opératif"
 [Les Fondements de l'Opération Défensive](Les Fondements de l'Opération Défensive.pdf) - 1938
 
 
+## Collectif 
 
+[L'Art Opératif - Développements dans les théories de la guerre (Extraits choisis)](L'art opératif - Développements dans les théories de la guerre.pdf) - 1996
 
-
+Introduction, par M.A. Hennessy et B.J.C. McKercher
+L'Art opératif : Développements dans les théories de la guerre, par John English
+Deux vues de Varsovie : La Guerre Civile russe et l'art opératif soviétique, 1920-1932, par Jacob Kipp
+La Dimension intellectuelle de l'art opératif soviétique (russe), par David Glantz
