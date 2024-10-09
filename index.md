@@ -4,4 +4,4 @@
 
 layout: home
 ---
-## Collection "Art Opératif"
+# Collection "Art Opératif"
