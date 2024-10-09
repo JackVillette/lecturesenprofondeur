@@ -17,8 +17,8 @@ G.S. Isserson :
 
 - Les Fondements de l'Opération Défensive
 
-  Collectif :
+Collectif :
 
-  - L'Art Opératif, Développements dans les théories de la guerre
+- L'Art Opératif, Développements dans les théories de la guerre
  
     
