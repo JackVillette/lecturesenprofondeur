@@ -22,3 +22,8 @@ Collectif :
 - L'Art Opératif, Développements dans les théories de la guerre
  
     
+# [Collection "Armée Rouge"](armeerouge.md)
+
+- Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif
+
+
