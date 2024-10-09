@@ -26,4 +26,3 @@ Collectif :
 
 - Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif
 
-
