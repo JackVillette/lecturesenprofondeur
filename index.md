@@ -19,3 +19,6 @@ title: Collection "Art Opératif"
 [Les Fondements de l'Opération Défensive](Les Fondements de l'Opération Défensive.pdf) - 1938
 
 
+
+
+
