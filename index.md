@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-titre : Collection "Art Opératif"
+title: Collection "Art Opératif"
 ---
 Georgi Isserson, [L'Evolution de l'Art Opératif](L'Evolution de l'Art Opératif.pdf)
