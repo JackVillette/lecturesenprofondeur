@@ -37,4 +37,8 @@ Collectif :
 - Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif
 
 
-# [Collection "Histoire Militaire"(
+# [Collection "Histoire Militaire"(milhist.md)
+
+*Histoire de l'Art de la Guerre* - Hans Delbrück
+
+
