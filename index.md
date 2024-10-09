@@ -7,6 +7,6 @@ title: Collection "Art Opératif"
 ---
 ## Georgi S. Isserson 
 
-!(isserson-georgii-samoilovich.jpg) 
+![isserson-georgii-samoilovich.jpg](isserson-georgii-samoilovich.jpg) 
 
 [L'Evolution de l'Art Opératif](L'Evolution de l'Art Opératif.pdf)
