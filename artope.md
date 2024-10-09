@@ -1,6 +1,6 @@
-layout : page
-title : Collection "Art Opératif"
-permalink : /artope/
+layout: page
+title: Collection "Art Opératif"
+permalink: /artope/
 ---
 
 ## Georgi S. Isserson 
