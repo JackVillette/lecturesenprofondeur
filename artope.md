@@ -4,7 +4,7 @@ title: Collection "Art Opératif"
 permalink: /artope/
 ---
 
-## Georgi S. Isserson 
+# Georgi S. Isserson 
 
 ![isserson-georgii-samoilovich.jpg](isserson-georgii-samoilovich.jpg) 
 
@@ -18,7 +18,7 @@ permalink: /artope/
 [Les Fondements de l'Opération Défensive](Les Fondements de l'Opération Défensive.pdf) - 1938
 
 
-## Collectif 
+# Collectif 
 
 [L'Art Opératif - Développements dans les théories de la guerre (Extraits choisis)](L'art opératif - Développements dans les théories de la guerre.pdf) - 1996
 
