@@ -4,8 +4,9 @@ title: Collection "Histoire Militaire"
 permalink: /milhist/
 ---
 
-## Collection "Histoire Militaire"
+## Hans Delbrück
 
-# Hans Delbrück
+# Histoire de l'Art de la Guerre
 
+- 
 
