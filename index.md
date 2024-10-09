@@ -5,4 +5,6 @@
 layout: home
 title: Collection "Art Opératif"
 ---
-Georgi Isserson, [L'Evolution de l'Art Opératif](L'Evolution de l'Art Opératif.pdf)
+## Georgi S. Isserson 
+(isserson-georgii-samoilovich.jpg) 
+[L'Evolution de l'Art Opératif](L'Evolution de l'Art Opératif.pdf)
