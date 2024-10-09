@@ -32,3 +32,5 @@ Deux vues de Varsovie : La Guerre Civile russe et l'art opératif soviétique, 1
 La Dimension intellectuelle de l'art opératif soviétique (russe), par David Glantz
 
 
+
+
