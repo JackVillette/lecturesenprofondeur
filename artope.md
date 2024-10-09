@@ -1,3 +1,4 @@
+---
 layout: page
 title: Collection "Art Opératif"
 permalink: /artope/
