@@ -4,18 +4,18 @@ title: Collection "Histoire Militaire"
 permalink: /milhist/
 ---
 
-## Alexandre Svetchine
+# Alexandre Svetchine
 
 ![Svetchine](svechin.jpg)
 
-# Evolution de l'Art militaire
+## Evolution de l'Art militaire
 
 
-## Hans Delbrück
+# Hans Delbrück
 
 ![Hans Delbrück](Delbruck.jpg)
 
-# Histoire de l'Art de la Guerre
+## Histoire de l'Art de la Guerre
 
 
 
