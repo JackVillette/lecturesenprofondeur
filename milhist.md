@@ -6,6 +6,8 @@ permalink: /milhist/
 
 ## Hans Delbrück
 
+![Hans Delbrück](
+
 # Histoire de l'Art de la Guerre
 
 - 
