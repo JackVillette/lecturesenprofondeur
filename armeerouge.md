@@ -9,3 +9,6 @@ permalink: /armeerouge/
 [Masse, mobilité et voie de développement de l'art opératif](Masse et Mobilité.pdf) de Jacob Kipp
 
 
+
+
+
