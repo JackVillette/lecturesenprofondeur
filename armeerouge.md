@@ -8,5 +8,5 @@ permalink: /armeerouge/
 
 [Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif](Masse et Mobilité.pdf) de Jacob Kipp
 
-
+[italique]Manuel de campagne de l'Armée Rouge, 1936[italique]
 
