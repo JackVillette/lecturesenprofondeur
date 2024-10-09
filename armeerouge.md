@@ -6,6 +6,6 @@ permalink: /armeerouge/
 
 ## Collection "Armée Rouge"
 
-![Masse, mobilité et voie de développement de l'art opératif](Masse et mobilité.pdf) de Jacob Kipp
+[Masse, mobilité et voie de développement de l'art opératif](Masse et Mobilité.pdf) de Jacob Kipp
 
 
