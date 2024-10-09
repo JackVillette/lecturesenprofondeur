@@ -14,3 +14,8 @@ title: Collection "Art Opératif"
 
 
 [Les Fondements de l'Opération en Profondeur](Les Fondements de l'Opération en Profondeur.pdf) - 1933
+
+
+[Les Fondements de l'Opération Défensive](Les Fondements de l'Opération Défensive.pdf) - 1938
+
+
