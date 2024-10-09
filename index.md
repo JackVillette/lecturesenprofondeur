@@ -4,3 +4,4 @@
 
 layout: # Collection "Art Opératif"
 ---
+Georgi Isserson, [L'Evolution de l'Art Opératif](L'Evolution de l'Art Opératif.pdf)
