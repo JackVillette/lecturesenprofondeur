@@ -24,7 +24,7 @@ email : ""
 
 # Build settings
 markdown: kramdown
-theme: neumorphism
+theme: minima
 plugins:
   - jekyll-feed
 
