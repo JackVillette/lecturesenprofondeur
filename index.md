@@ -20,6 +20,11 @@ G.S. Isserson :
 
 - Les Fondements de l'Opération Défensive
 
+- *Les Nouvelles Formes de Lutte*
+
+- *Le Développement de la Théorie de l'Art Opératif*
+
+  
 V. Triandafillov :
 
 - *La Nature des Opérations des Armées Modernes*
