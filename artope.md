@@ -4,6 +4,14 @@ title: Collection "Art Opératif"
 permalink: /artope/
 ---
 
+# Alexandre A. Svetchine
+
+![Svetchine](svechin.jpg)
+
+*Stratégie* - 1926
+
+
+
 # Georgi S. Isserson 
 
 ![isserson-georgii-samoilovich.jpg](isserson-georgii-samoilovich.jpg) 
