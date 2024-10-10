@@ -8,7 +8,7 @@ title: Index
 
 # [Collection "Art Opératif"](artope.md)
 
-A.A Svetchine :
+A.A. Svetchine :
 
 - *Stratégie*
 
