@@ -24,7 +24,6 @@ G.S. Isserson :
 
 - *Le Développement de la Théorie de l'Art Opératif*
 
-  
 V. Triandafillov :
 
 - *La Nature des Opérations des Armées Modernes*
