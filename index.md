@@ -27,7 +27,7 @@ Collectif :
     
 # [Collection "Armée Rouge"](armeerouge.md)
 
-- *Manuel de terrain de l'Armée Rouge (1936)*
+- *Manuel de terrain de l'Armée Rouge PU-36*
 
 - *La Guerre Civile Russe, 1918-1921* - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
 
