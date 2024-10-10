@@ -10,6 +10,9 @@ permalink: /milhist/
 
 ## Evolution de l'Art militaire
 
+- *La Guerre Civile aux États-Unis (T.2, chapitre 3)*
+
+
 
 # Hans Delbrück
 
