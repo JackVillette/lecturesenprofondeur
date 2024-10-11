@@ -29,7 +29,7 @@ permalink: /artope/
 
 *Les Nouvelles Formes de Lutte* - 1940
 
-*Le Développement de la Théorie de l'Art Opératif* - 1965
+[Le Développement de la Théorie de l'Art Opératif](Le Développement de la Théorie de l'Art Opératif.pdf) - 1965
 
 
 
