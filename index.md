@@ -20,6 +20,8 @@ G.S. Isserson :
 
 - Les Fondements de l'Opération Défensive
 
+- Les Fondements de la Conduite des Opérations
+
 - *Les Nouvelles Formes de Lutte*
 
 - *Le Développement de la Théorie de l'Art Opératif*
