@@ -52,8 +52,13 @@ Collectif :
 
 - *Histoire de l'Art de la Guerre* - Hans Delbrück
 
+# Divers
+
+- *Réflexions générales sur la Campagne du Bade* - L. Mieroslawski
 
 
+
+  
 
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
