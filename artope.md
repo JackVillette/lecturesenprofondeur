@@ -25,7 +25,7 @@ permalink: /artope/
 
 [Les Fondements de l'Opération Défensive](Les Fondements de l'Opération Défensive.pdf) - 1938
 
-*Les Fondements de la Conduite des Opérations* - 1939
+[Les Fondements de la Conduite des Opérations](Les Fondements de la Conduite des Opérations.pdf) - 1939
 
 *Les Nouvelles Formes de Lutte* - 1940
 
