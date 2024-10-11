@@ -24,7 +24,7 @@ G.S. Isserson :
 
 - *Les Nouvelles Formes de Lutte*
 
-- *Le Développement de la Théorie de l'Art Opératif*
+- Le Développement de la Théorie de l'Art Opératif
 
 V. Triandafillov :
 
