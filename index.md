@@ -52,7 +52,7 @@ Collectif :
 
 - *Histoire de l'Art de la Guerre* - Hans Delbrück
 
-# Divers
+# [Divers](divers.md)
 
 - *Réflexions générales sur la Campagne du Bade* - L. Mieroslawski
 
