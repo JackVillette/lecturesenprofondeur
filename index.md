@@ -41,11 +41,15 @@ Collectif :
 
 - *La Guerre Civile Russe, 1918-1921* - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
 
-- *La Guerre de Staline contre le Japon* - Charles Stephenson
+- *La Guerre de Staline contre le Japon* - C. Stephenson
 
 - Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif
 
+# [Collection "Théorie/Histoire militaire"](milhist.md)
 
+- *Stratégie* - A.A. Svetchine
+
+- *Histoire de l'Art de la Guerre* - H. Delbrück
 
 # [Divers](divers.md)
 
