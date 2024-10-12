@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collection "Histoire Militaire"
+title: Collection "Théorie/Histoire Militaire"
 permalink: /milhist/
 ---
 
