@@ -47,7 +47,7 @@ Collectif :
 
 # [Collection "Théorie/Histoire militaire"](milhist.md)
 
-- *Stratégie* - A.A. Svetchine
+- *L'Évolution de l'Art militaire* - A.A. Svetchine
 
 - *Histoire de l'Art de la Guerre* - H. Delbrück
 
