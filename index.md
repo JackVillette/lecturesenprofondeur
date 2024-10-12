@@ -54,7 +54,7 @@ Collectif :
 
 # [Divers](divers.md)
 
-- *Réflexions générales sur la Campagne du Bade* - L. Mieroslawski
+- Réflexions générales sur la Campagne du Bade - L. Mieroslawski
 
 
 
