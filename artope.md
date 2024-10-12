@@ -4,6 +4,9 @@ title: Collection "Art Opératif"
 permalink: /artope/
 ---
 
+
+
+
 # Alexandre A. Svetchine
 
 ![Svetchine](svechin.jpg)
