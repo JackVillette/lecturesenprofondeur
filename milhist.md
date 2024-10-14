@@ -12,8 +12,6 @@ permalink: /milhist/
 
 - *La Guerre Civile aux États-Unis (T.2, chapitre 3)*
 
-
-
 # Hans Delbrück
 
 ![Hans Delbrück](Delbruck.jpg)
