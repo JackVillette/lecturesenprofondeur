@@ -8,7 +8,7 @@ permalink: /milhist/
 
 ![Svetchine](svechin.jpg)
 
-## Evolution de l'Art militaire (1928)
+## L'Évolution de l'Art militaire (1928)
 
 - *La Guerre Civile aux États-Unis (T.2, chapitre 3)*
 
