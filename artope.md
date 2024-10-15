@@ -30,7 +30,7 @@ permalink: /artope/
 
 [Les Fondements de la Conduite des Opérations](Les Fondements de la Conduite des Opérations.pdf) - 1939
 
-*Les Nouvelles Formes de Lutte* - 1940
+[Les Nouvelles Formes de Lutte](Les Nouvelles Formes de Lutte.pdf) - 1940
 
 [Le Développement de la Théorie de l'Art Opératif](Le Développement de la Théorie de l'Art Opératif.pdf) - 1965
 
