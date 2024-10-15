@@ -22,7 +22,7 @@ G.S. Isserson :
 
 - Les Fondements de la Conduite des Opérations
 
-- *Les Nouvelles Formes de Lutte*
+- Les Nouvelles Formes de Lutte
 
 - Le Développement de la Théorie de l'Art Opératif
 
