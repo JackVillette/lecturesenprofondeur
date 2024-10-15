@@ -51,6 +51,8 @@ Collectif :
 
 - *Histoire de l'Art de la Guerre* - H. Delbrück
 
+- *Invasion 1914 : Le Plan Schlieffen pour la Bataille de la Marne* - Ian Senior
+
 # [Divers](divers.md)
 
 - Réflexions générales sur la Campagne du Bade - L. Mieroslawski
