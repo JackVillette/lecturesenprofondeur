@@ -43,6 +43,8 @@ Collectif :
 
 - *La Guerre de Staline contre le Japon* - C. Stephenson
 
+- *Stratégie militaire* - V.D. Sokolovsky
+
 - Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif
 
 # [Collection "Théorie/Histoire militaire"](milhist.md)
@@ -51,7 +53,7 @@ Collectif :
 
 - *Histoire de l'Art de la Guerre* - H. Delbrück
 
-- *Invasion 1914 : Le Plan Schlieffen pour la Bataille de la Marne* - Ian Senior
+- *Invasion 1914 : Le Plan Schlieffen pour la Bataille de la Marne* - I. Senior
 
 # [Divers](divers.md)
 
