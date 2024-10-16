@@ -36,6 +36,12 @@ permalink: /artope/
 
 # Vladimir K. Triandafillov
 
+![Triandafillov](Triandafillov.jpg)
+
+- *La Nature des Opérations des Armées Modernes* - 1929
+
+- *Interaction entre les fronts de l’Ouest et du Sud-Ouest lors de l’offensive estivale de l’Armée rouge sur la Vistule en 1920* - 1925 (Guerre et révolution n°2, mars-avril)
+
 
 
 # Collectif 
