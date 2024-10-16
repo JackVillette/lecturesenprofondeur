@@ -47,6 +47,8 @@ Collectif :
 
 - *Stratégie militaire* - V.D. Sokolovsky
 
+- *L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941)* - M. Mukhin
+
 - Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif
 
 # [Collection "Théorie/Histoire militaire"](milhist.md)
