@@ -12,7 +12,7 @@ permalink: /artope/
 ![Svetchine](svechin.jpg)
 
 *Stratégie* - 1926
-
+  - Première Partie ("Préfaces", "Introduction" et "Stratégie et politique")
 
 
 # Georgi S. Isserson 
