@@ -10,6 +10,8 @@ permalink: /armeerouge/
 
 *La Guerre Civile Russe, 1918-1921* - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
 
+*Stratégie militaire* - V.D. Sokolovsky
+
 *La Guerre de Staline contre le Japon* - Charles Stephenson
 
 [Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif](Masse et Mobilité.pdf) de Jacob Kipp
