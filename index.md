@@ -30,6 +30,8 @@ V. Triandafillov :
 
 - *La Nature des Opérations des Armées Modernes*
 
+- *Interaction entre les fronts de l’Ouest et du Sud-Ouest lors de l’offensive estivale de l’Armée rouge sur la Vistule en 1920*
+
 Collectif :
 
 - L'Art Opératif, Développements dans les théories de la guerre
