@@ -34,6 +34,8 @@ permalink: /artope/
 
 [Le Développement de la Théorie de l'Art Opératif](Le Développement de la Théorie de l'Art Opératif.pdf) - 1965
 
+# Vladimir K. Triandafillov
+
 
 
 # Collectif 
