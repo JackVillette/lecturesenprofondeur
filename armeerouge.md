@@ -6,7 +6,7 @@ permalink: /armeerouge/
 
 # Collection "Armée Rouge"
 
-*Armée Rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
+*Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
 
 *Règlement de terrain de l'Armée Rouge PU-36*
 
