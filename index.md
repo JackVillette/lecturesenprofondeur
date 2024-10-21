@@ -10,7 +10,7 @@ title: Index
 
 A.A. Svetchine :
 
-- *Stratégie*
+- Stratégie
 
 G.S. Isserson : 
 
