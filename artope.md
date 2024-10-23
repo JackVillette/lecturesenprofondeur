@@ -13,6 +13,7 @@ permalink: /artope/
 
 Stratégie - 1926
   - [Première Partie ("Préfaces", "Introduction" et "Stratégie et politique")](Stratégie 1.pdf)
+  - Deuxième Partie ("Préparation du Front armé", "Combinaison des opérations" et "Commandement")
 
 
 
