@@ -12,7 +12,7 @@ permalink: /armeerouge/
 
 [La Guerre Civile Russe, 1918-1921](guerrecivilerusse.md) - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
 
-*La Guerre de Staline contre le Japon* - Charles Stephenson
+[La Guerre de Staline contre le Japon](manchou.md) - Charles Stephenson
 
 *Stratégie militaire* - V.D. Sokolovsky
 
