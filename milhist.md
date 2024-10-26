@@ -4,7 +4,7 @@ title: Collection "Théorie/Histoire Militaire"
 permalink: /milhist/
 ---
 
-# Alexandre Svetchine
+# Alexandre A. Svetchine
 
 ![Svetchine](svechin.jpg)
 
