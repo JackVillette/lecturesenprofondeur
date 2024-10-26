@@ -10,7 +10,7 @@ permalink: /milhist/
 
 ## L'Évolution de l'Art militaire (1928)
 
-- *La Guerre Civile aux États-Unis (T.2, chapitre 3)*
+- T.2 Chapitre 3 : [La Guerre Civile aux États-Unis](T2C3 Guerre Civile USA.pdf) 
 
 # Hans Delbrück
 
