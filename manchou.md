@@ -6,7 +6,7 @@ permalink: /armeerouge/mandchourie
 
 # La Guerre de Staline contre le Japon - Charles Stephenson
 
-- Introduction et Chapitre 1 : "Le Pape, combien de divisions?"
+- [Introduction et Chapitre 1](Intro+Ch1.pdf) : "Le Pape, combien de divisions?"
 - Chapitre 2 : Mandchoukouo : Une Armée avec un État
 - Chapitre 3 : Le plan de bataille (en profondeur) soviétique
 - Chapitre 4 : "... à la croisée des chemins"
