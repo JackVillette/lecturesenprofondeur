@@ -7,8 +7,8 @@ permalink: /armeerouge/guerrecivilerusse/
 # La Guerre Civile russe, 1918-1921 - A.S Bubnov, S.S. Kamenev, M.N. Toukhatchevski et R.P. Eideman
 - [Chapitre 1](Chapitre 1.pdf) : La situation politique intérieure et extérieure. Les théâtres de guerre.
 - [Chapitre 2](Chapitre 2.pdf) : La période d'Octobre de la Guerre civile
-- Chapitre 3 : L'occupation allemande et le début de l'intervention
-- Chapitre 4 : La Campagne d'été et d'automne 1918 sur le Front Sud et dans le Nord-Caucase
+- [Chapitre 3](Chapitre 3.pdf) : L'occupation allemande et le début de l'intervention
+- [Chapitre 4](Chapitre 4.pdf) : La Campagne d'été et d'automne 1918 sur le Front Sud et dans le Nord-Caucase
 - Chaptre 5 : L'Occupation allemande et la révolution. la condition interne des camps et le développement de leurs forces armées
 - Chapitre 6 : Les plans stratégiques pour 1919. La campagne des Fronts Sud et du Nord-Caucase à la fin de 1918. Le début de la lutte sur le Front Ukrainien
 - Chapitre 7 : La guerre civile dans les États baltes, sur le Front Ouest et aux abords de Pétrograd
