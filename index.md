@@ -65,7 +65,7 @@ Collectif :
 
 - Réflexions générales sur la Campagne du Bade - L. Mieroslawski
 
-- *"Le Clausewitz Rouge" : Friedrich Engels et la Pensée Militaire Socialiste* - M. Boden
+- "Le Clausewitz Rouge" : Friedrich Engels et la Pensée Militaire Socialiste - M. Boden
 
 
 
