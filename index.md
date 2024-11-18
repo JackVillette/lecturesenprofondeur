@@ -59,7 +59,7 @@ Collectif :
 
 - *Histoire de l'Art de la Guerre* - H. Delbrück
 
-- *Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne* - I. Senior
+- Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - I. Senior
 
 # [Divers](divers.md)
 
