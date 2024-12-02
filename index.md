@@ -32,6 +32,7 @@ V. Triandafillov :
 
 - Interaction entre les fronts de l’Ouest et du Sud-Ouest lors de l’offensive estivale de l’Armée rouge sur la Vistule en 1920
 
+
 Collectif :
 
 - L'Art Opératif, Développements dans les théories de la guerre
@@ -51,6 +52,10 @@ Collectif :
 
 - *L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941)* - M. Mukhin
 
+- *L'Art Opératif Militaire Soviétique* - D. Glantz
+
+- *Combat Opérationnel et Tactique Soviétiques en Mandchourie 1945* - D. Glantz
+  
 - Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif
 
 # [Collection "Théorie/Histoire militaire"](milhist.md)
