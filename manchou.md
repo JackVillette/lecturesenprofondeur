@@ -8,9 +8,9 @@ permalink: /armeerouge/mandchourie
 
 - [Introduction et Chapitre 1](Intro+Ch1.pdf) : "Le Pape, combien de divisions?"
 - [Chapitre 2](Ch2.pdf) : Mandchoukouo : Une Armée avec un État
-- Chapitre 3 : Le plan de bataille (en profondeur) soviétique
-- Chapitre 4 : "... à la croisée des chemins"
-- Chapitre 5 : Le Front Trans-Baïkal : le "courant de fer"
+- [Chapitre 3](Ch3.pdf) : Le plan de bataille (en profondeur) soviétique
+- [Chapitre 4](Ch4.pdf) : "... à la croisée des chemins"
+- [Chapitre 5](Ch5.pdf) : Le Front Trans-Baïkal : le "courant de fer"
 - Chapitre 6 : Le Premier Front Extrême-Oriental : Les tactiques de Souvorov
 - Chapitre 7 : Le Deuxième Front Extrême-Oriental : Guerres de rivière
 - Chapitre 8 : "La situation de guerre n'a pas nécessairement évolué en faveur du Japon"
