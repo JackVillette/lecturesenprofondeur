@@ -28,5 +28,5 @@ permalink: /milhist/
 # Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne
 
 - [Introduction et Chapitre 1](Invasion1914 Chap1.pdf) : Le Plan Schlieffen-Moltke
-  
+- [Chapitre 2](Invasion 1914 Chap2.pdf) : Plan XVII
 
