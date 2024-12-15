@@ -11,8 +11,8 @@ permalink: /armeerouge/mandchourie
 - [Chapitre 3](Ch3.pdf) : Le plan de bataille (en profondeur) soviétique
 - [Chapitre 4](Ch4.pdf) : "... à la croisée des chemins"
 - [Chapitre 5](Ch5.pdf) : Le Front Trans-Baïkal : le "courant de fer"
-- Chapitre 6 : Le Premier Front Extrême-Oriental : Les tactiques de Souvorov
-- Chapitre 7 : Le Deuxième Front Extrême-Oriental : Guerres de rivière
+- [Chapitre 6](Ch6.pdf) : Le Premier Front Extrême-Oriental : Les tactiques de Souvorov
+- [Chapitre 7](Ch7.pdf) : Le Deuxième Front Extrême-Oriental : Guerres de rivière
 - Chapitre 8 : "La situation de guerre n'a pas nécessairement évolué en faveur du Japon"
 - Chapitre 9 : La deuxième étape : la dissolution d'une armée, de son État et d'un Empire
 - Chapitre 10 : En finir avec "la bête fasciste de l'Est"
