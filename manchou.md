@@ -13,7 +13,7 @@ permalink: /armeerouge/mandchourie
 - [Chapitre 5](Ch5.pdf) : Le Front Trans-Baïkal : le "courant de fer"
 - [Chapitre 6](Ch6.pdf) : Le Premier Front Extrême-Oriental : Les tactiques de Souvorov
 - [Chapitre 7](Ch7.pdf) : Le Deuxième Front Extrême-Oriental : Guerres de rivière
-- Chapitre 8 : "La situation de guerre n'a pas nécessairement évolué en faveur du Japon"
-- Chapitre 9 : La deuxième étape : la dissolution d'une armée, de son État et d'un Empire
-- Chapitre 10 : En finir avec "la bête fasciste de l'Est"
-- Chapitre 11 : "Le coeur de la Chine est aux mains des communistes"
+- [Chapitre 8](Ch8.pdf) : "La situation de guerre n'a pas nécessairement évolué en faveur du Japon"
+- [Chapitre 9](Ch9.pdf) : La deuxième étape : la dissolution d'une armée, de son État et d'un Empire
+- [Chapitre 10](Ch10.pdf) : En finir avec "la bête fasciste de l'Est"
+- [Chapitre 11](Ch11.pdf) : "Le coeur de la Chine est aux mains des communistes"
