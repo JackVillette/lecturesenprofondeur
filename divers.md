@@ -8,6 +8,8 @@ permalink: /divers/
 
 - ["Le Clausewitz Rouge" : Friedrich Engels et la Pensée Militaire Socialiste](Clausewitz Rouge.pdf) - M. Boden
 
+- [Les Guerres Hussites 1419-136](Guerres Hussites.pdf) - Stephen Turnbull
+  
 
 
 
