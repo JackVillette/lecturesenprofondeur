@@ -29,4 +29,9 @@ permalink: /milhist/
 
 - [Introduction et Chapitre 1](Invasion1914 Chap1.pdf) : Le Plan Schlieffen-Moltke
 - [Chapitre 2](Invasion 1914 Chap2.pdf) : Plan XVII
+- [Chapitre 3](Invasion 1914 Chap3.pdf) : Mouvements d'ouverture
+- [Chapitre 4](Invasion 1914 Chap4.pdf) : La bataille de Charleroi
+- [Chapitre 5](Invasion 1914 Chap5.pdf) : La retraite commence
+- [Chapitre 6](Invasion 1914 Chap6.pdf) : La bataille de Guise
 
+  
