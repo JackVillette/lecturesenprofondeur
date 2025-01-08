@@ -66,6 +66,8 @@ Collectif :
 
 - Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - I. Senior
 
+- L'Art de la Guerre Mongol - T. May
+
 # [Divers](divers.md)
 
 - Réflexions générales sur la Campagne du Bade - L. Mieroslawski
