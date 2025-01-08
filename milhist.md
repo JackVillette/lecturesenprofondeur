@@ -5,7 +5,7 @@ permalink: /milhist/
 ---
 
 
-## L'Évolution de l'Art militaire (1928) - Alexandre Svetchine
+## L'Évolution de l'Art militaire - Alexandre Svetchine
 
 - T.1 Chapitre 1 : [Phalange grecque. Alexandre le Grand](T1C1 Phalange grecque.pdf)
 - T.2 Chapitre 3 : [La Guerre Civile aux États-Unis](T2C3 Guerre Civile USA.pdf) 
