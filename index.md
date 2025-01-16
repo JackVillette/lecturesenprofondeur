@@ -54,7 +54,7 @@ Collectif :
 
 - *L'Art Opératif Militaire Soviétique* - D. Glantz
 
-- *Combat Opérationnel et Tactique Soviétiques en Mandchourie 1945* - D. Glantz
+- *Combat Opérationnel et Tactique Soviétique en Mandchourie 1945* - D. Glantz
   
 - Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif
 
