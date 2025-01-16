@@ -26,6 +26,9 @@ permalink: /milhist/
 - [Chapitre 4](Invasion 1914 Chap4.pdf) : La bataille de Charleroi
 - [Chapitre 5](Invasion 1914 Chap5.pdf) : La retraite commence
 - [Chapitre 6](Invasion 1914 Chap6.pdf) : La bataille de Guise
+- [Chapitre 7](Invasion 1914 Chap7.pdf) : La retraite continue
+- [Chapitre 8](Invasion 1914 Chap8.pdf) : La veille de la bataille
+- [Chapitre 9](Invasion 1914 Chap9.pdf) : Pris par surprise
 
 ## L'Art de la Guerre Mongol - Timothy May
 
