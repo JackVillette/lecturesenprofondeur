@@ -10,7 +10,7 @@ permalink: /divers/
 
 - [Les Guerres Hussites 1419-136](Guerres Hussites.pdf) - Stephen Turnbull
   
-
+- [Les Guerres Paysannes du XXè Siècle](Guerres paysannes.pdf) - Eric Wolf
 
 
 
