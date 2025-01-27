@@ -74,6 +74,8 @@ Collectif :
 
 - "Le Clausewitz Rouge" : Friedrich Engels et la Pensée Militaire Socialiste - M. Boden
 
+- Les Guerres Hussites - S. Turnbull
+  
 - Les Guerres Paysannes du XXè Siècle - E. Wolf
 
 
