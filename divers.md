@@ -12,7 +12,8 @@ permalink: /divers/
   
 - [Les Guerres Paysannes du XXè Siècle](Guerres paysannes.pdf) - Eric Wolf
 
-
+- [Misreading Svechin : Attrition, Annihilation and Historicism](Misreading Svechin.pdf) - David R. Stones
+  
 
 
 
