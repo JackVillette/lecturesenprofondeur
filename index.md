@@ -52,7 +52,7 @@ Collectif :
 
 - *L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941)* - M. Mukhin
 
-- *L'Art Opératif Militaire Soviétique* - D. Glantz
+- L'Art Opératif Militaire Soviétique - D. Glantz
 
 - *Combat Opérationnel et Tactique Soviétique en Mandchourie 1945* - D. Glantz
   
