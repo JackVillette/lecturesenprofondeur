@@ -16,7 +16,7 @@ permalink: /armeerouge/
 
 *Stratégie militaire* - V.D. Sokolovsky
 
-[L'Art Opérationnel Soviétique](Art Opérationnel Soviétique.pdf) - David Glantz
+[L'Art Opératif Militaire Soviétique](Art Opérationnel Soviétique.pdf) - David Glantz
 
 *L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941)* - Mikhaïl Mukhin
 
