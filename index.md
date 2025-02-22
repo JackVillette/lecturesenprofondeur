@@ -68,6 +68,8 @@ Collectif :
 
 - L'Art de la Guerre Mongol - T. May
 
+- Cavalerie : Histoire de la guerre montée - J. Ellis
+  
 # [Divers](divers.md)
 
 - Réflexions générales sur la Campagne du Bade - L. Mieroslawski
