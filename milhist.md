@@ -34,4 +34,8 @@ permalink: /milhist/
 
 [L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf)
 
+## Cavalerie : Histoire de la Guerre Montée - John Ellis
+
+[Cavalerie : Histoire de la Guerre Montée](Cavalerie.pdf)
+
 
