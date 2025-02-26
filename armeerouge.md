@@ -14,6 +14,8 @@ permalink: /armeerouge/
 
 [La Guerre de Staline contre le Japon](manchou.md) - Charles Stephenson
 
+[Aigle blanc, Etoile rouge : la Guerre soviéto-polonaise](ABER.pdf) - Norman Davies
+
 *Stratégie militaire* - V.D. Sokolovsky
 
 [L'Art Opératif Militaire Soviétique](Art Opérationnel Soviétique.pdf) - David Glantz
