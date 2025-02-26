@@ -46,6 +46,8 @@ Collectif :
 
 - La Guerre Civile Russe, 1918-1921 - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
 
+- Aigle blanc, Etoile rouge : la Guerre soviéto-polonaise - N. Davies
+
 - La Guerre de Staline contre le Japon - C. Stephenson
 
 - *Stratégie militaire* - V.D. Sokolovsky
