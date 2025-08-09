@@ -64,7 +64,7 @@ Collectif :
 
 - L'Évolution de l'Art militaire - A.A. Svetchine
 
-- *Histoire de l'Art de la Guerre* - H. Delbrück
+- Histoire de l'Art de la Guerre - H. Delbrück
 
 - Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - I. Senior
 
