@@ -15,7 +15,7 @@ permalink: /milhist/
 - I. L'Antiquité
 - III. Le Moyen-Âge
 - IV. L'Époque Moderne
-  - *La Période des Armées Nationales (Vol. IV, Livre 4)*
+  - [La Nature de l'Armée à la Renaissance](HDV4L1Renaissance.pdf)
 
 
 ## Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - Ian Senior
