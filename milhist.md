@@ -17,6 +17,7 @@ permalink: /milhist/
 - IV. L'Époque Moderne
   - [La Nature de l'Armée à la Renaissance](HDV4L1Renaissance.pdf)
   - [La Période des Guerres de Religion](HDV4L2Religion.pdf)
+  - [La Période des Armées Permanentes](HDV4L3Armperm.pdf)
 
 
 ## Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - Ian Senior
