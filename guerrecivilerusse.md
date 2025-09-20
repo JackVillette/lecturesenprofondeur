@@ -10,8 +10,8 @@ permalink: /armeerouge/guerrecivilerusse/
 - [Chapitre 3](Chapitre 3.pdf) : L'occupation allemande et le début de l'intervention
 - [Chapitre 4](Chapitre 4.pdf) : La Campagne d'été et d'automne 1918 sur le Front Sud et dans le Nord-Caucase
 - [Chaptre 5](Chapitre 5.pdf) : L'Occupation allemande et la révolution. La condition interne des camps et le développement de leurs forces armées
-- Chapitre 6 : Les plans stratégiques pour 1919. La campagne des Fronts Sud et du Nord-Caucase à la fin de 1918. Le début de la lutte sur le Front Ukrainien
-- Chapitre 7 : La guerre civile dans les États baltes, sur le Front Ouest et aux abords de Pétrograd
+- [Chapitre 6](Chapitre 6.pdf) : Les plans stratégiques pour 1919. La campagne des Fronts Sud et du Nord-Caucase à la fin de 1918. Le début de la lutte sur le Front Ukrainien
+- [Chapitre 7](Chapitre 7.pdf) : La guerre civile dans les États baltes, sur le Front Ouest et aux abords de Pétrograd
 - Chapitre 8 : La campagne d'hiver et de printemps 1918-1919 sur le Front Est. Le Front Nord
 - Chapitre 9 : L'Opération Ufa. La pression sur la chaîne de l'Oural par les Armées rouges. La poursuite des Armées blanches en Sibérie
 - Chapitre 10 : La campagne de printemps et d'été 1919 sur le Front Sud
