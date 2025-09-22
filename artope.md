@@ -45,6 +45,12 @@ Stratégie - 1926
 [Interaction entre les fronts de l’Ouest et du Sud-Ouest lors de l’offensive estivale de l’Armée rouge sur la Vistule en 1920](Interaction entre le Front Ouest et le Front Sud-Ouest.pdf) - 1925 (Guerre et révolution n°2, mars-avril)
 
 
+# Divers
+
+- [Concentration opérationnelle](Concentration opérationnelle Zhuravlev.pdf) - N. Zhuravlev (1935)
+
+
+
 
 # Collectif 
 
@@ -57,7 +63,6 @@ Stratégie - 1926
 - Deux vues de Varsovie : La Guerre Civile russe et l'art opératif soviétique, 1920-1932, par Jacob Kipp
 
 - La Dimension intellectuelle de l'art opératif soviétique (russe), par David Glantz
-
 
 
 
