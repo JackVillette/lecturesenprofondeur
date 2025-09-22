@@ -19,30 +19,30 @@ Stratégie - 1926
 
 # Georgi S. Isserson 
 
-![isserson-georgii-samoilovich.jpg](isserson-georgii-samoilovich.jpg) 
+[isserson-georgii-samoilovich.jpg](isserson-georgii-samoilovich.jpg) 
 
 
-[L'Evolution de l'Art Opératif](L'Evolution de l'Art Opératif.pdf) - 1932, 2nde édition en 1936
+- [L'Evolution de l'Art Opératif](L'Evolution de l'Art Opératif.pdf) - 1932, 2nde édition en 1936
 
 
-[Les Fondements de l'Opération en Profondeur](Les Fondements de l'Opération en Profondeur.pdf) - 1933
+- [Les Fondements de l'Opération en Profondeur](Les Fondements de l'Opération en Profondeur.pdf) - 1933
 
 
-[Les Fondements de l'Opération Défensive](Les Fondements de l'Opération Défensive.pdf) - 1938
+- [Les Fondements de l'Opération Défensive](Les Fondements de l'Opération Défensive.pdf) - 1938
 
-[Les Fondements de la Conduite des Opérations](Les Fondements de la Conduite des Opérations.pdf) - 1939
+- [Les Fondements de la Conduite des Opérations](Les Fondements de la Conduite des Opérations.pdf) - 1939
 
-[Les Nouvelles Formes de Lutte](Les Nouvelles Formes de Lutte.pdf) - 1940
+- [Les Nouvelles Formes de Lutte](Les Nouvelles Formes de Lutte.pdf) - 1940
 
-[Le Développement de la Théorie de l'Art Opératif](Le Développement de la Théorie de l'Art Opératif.pdf) - 1965
+- [Le Développement de la Théorie de l'Art Opératif](Le Développement de la Théorie de l'Art Opératif.pdf) - 1965
 
 # Vladimir K. Triandafillov
 
 ![Triandafillov](Triandafillov.jpg)
 
-[La Nature des Opérations des Armées Modernes](La Nature des Opérations des Armées Modernes.pdf) - 1929
+- [La Nature des Opérations des Armées Modernes](La Nature des Opérations des Armées Modernes.pdf) - 1929
 
-[Interaction entre les fronts de l’Ouest et du Sud-Ouest lors de l’offensive estivale de l’Armée rouge sur la Vistule en 1920](Interaction entre le Front Ouest et le Front Sud-Ouest.pdf) - 1925 (Guerre et révolution n°2, mars-avril)
+- [Interaction entre les fronts de l’Ouest et du Sud-Ouest lors de l’offensive estivale de l’Armée rouge sur la Vistule en 1920](Interaction entre le Front Ouest et le Front Sud-Ouest.pdf) - 1925 (Guerre et révolution n°2, mars-avril)
 
 
 # Divers
