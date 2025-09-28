@@ -15,9 +15,9 @@ permalink: /armeerouge/guerrecivilerusse/
 - [Chapitre 8](Chapitre 8.pdf) : La campagne d'hiver et de printemps 1918-1919 sur le Front Est. Le Front Nord
 - [Chapitre 9](Chapitre 9.pdf) : L'Opération Ufa. La pression sur la chaîne de l'Oural par les Armées rouges. La poursuite des Armées blanches en Sibérie
 - [Chapitre 10](Chapitre 10.pdf) : La campagne de printemps et d'été 1919 sur le Front Sud
-- Chapitre 11 : L'Opération Oryol
-- Chapitre 12 : La poursuite de l'ennemi et les opérations du Front du Caucase
-- Chapitre 13 : La situation politique intérieur et extérieure au début de 1920 Relations mutuelles entre la Russie soviétique et la Pologne. Préparatifs des deux côtés pour la poursuite de la guerre
+- [Chapitre 11](Chapitre 11.pdf) : L'Opération Oryol
+- [Chapitre 12](Chapitre 12.pdf) : La poursuite de l'ennemi et les opérations du Front du Caucase
+- [Chapitre 13](Chapitre 13.pdf) : La situation politique intérieur et extérieure au début de 1920 Relations mutuelles entre la Russie soviétique et la Pologne. Préparatifs des deux côtés pour la poursuite de la guerre
 - Chapitre 14 : L'opération ukrainienne des Polonais blancs. La bataille de la Bérézina
 - Chapitre 15 : L'engagement général en Biélorussie. La poursuite des armées polonaises en Biélorussie et en Ukraine
 - Chapitre 16 : La prépration de l'Opération sur la Vistule
