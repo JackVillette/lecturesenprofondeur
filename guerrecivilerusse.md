@@ -18,9 +18,9 @@ permalink: /armeerouge/guerrecivilerusse/
 - [Chapitre 11](Chapitre 11.pdf) : L'Opération Oryol
 - [Chapitre 12](Chapitre 12.pdf) : La poursuite de l'ennemi et les opérations du Front du Caucase
 - [Chapitre 13](Chapitre 13.pdf) : La situation politique intérieur et extérieure au début de 1920 Relations mutuelles entre la Russie soviétique et la Pologne. Préparatifs des deux côtés pour la poursuite de la guerre
-- Chapitre 14 : L'opération ukrainienne des Polonais blancs. La bataille de la Bérézina
-- Chapitre 15 : L'engagement général en Biélorussie. La poursuite des armées polonaises en Biélorussie et en Ukraine
-- Chapitre 16 : La prépration de l'Opération sur la Vistule
+- [Chapitre 14](Chapitre 14.pdf) : L'opération ukrainienne des Polonais blancs. La bataille de la Bérézina
+- [Chapitre 15](Chapitre 15.pdf) : L'engagement général en Biélorussie. La poursuite des armées polonaises en Biélorussie et en Ukraine
+- [Chapitre 16](Chapitre 16.pdf) : La prépration de l'Opération sur la Vistule
 - Chapitre 17 : Établissement de la coordination des Fronts
 - Chapitre 18 : L'engagement général sur la Vistule et la Wkra
 - Chapitre 19 : La campagne de 1920 sur le Front Crimée-Tavriya
