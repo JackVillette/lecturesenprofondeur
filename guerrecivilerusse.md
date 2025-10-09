@@ -21,10 +21,11 @@ permalink: /armeerouge/guerrecivilerusse/
 - [Chapitre 14](Chapitre 14.pdf) : L'opération ukrainienne des Polonais blancs. La bataille de la Bérézina
 - [Chapitre 15](Chapitre 15.pdf) : L'engagement général en Biélorussie. La poursuite des armées polonaises en Biélorussie et en Ukraine
 - [Chapitre 16](Chapitre 16.pdf) : La prépration de l'Opération sur la Vistule
-- Chapitre 17 : Établissement de la coordination des Fronts
-- Chapitre 18 : L'engagement général sur la Vistule et la Wkra
-- Chapitre 19 : La campagne de 1920 sur le Front Crimée-Tavriya
+- [Chapitre 17](Chapitre 17.pdf) : Établissement de la coordination des Fronts
+- [Chapitre 18](Chapitre 18.pdf) : L'engagement général sur la Vistule et la Wkra
+- [Chapitre 19](Chapitre 19.pdf) : La campagne de 1920 sur le Front Crimée-Tavriya
 - Chapitre 20 : Opérations sur le Dniepr inférieur et au Kouban
 - Chapitre 21 : L'élimination de Wrangel
-
+- Supplément : La campagne de Boukhara en 1920 et un bref aperçu des campagnes de 1921 et 1922
+  
  
