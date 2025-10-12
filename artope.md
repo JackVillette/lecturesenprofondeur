@@ -11,9 +11,19 @@ permalink: /artope/
 
 ![Svetchine](svechin.jpg)
 
+CYCLE GUERRE RUSSO-JAPONAISE
+- Actions tactiques en montagne basées sur l’expérience de la guerre russo-japonaise (1906)
+- Préjugés et Réalités du Combat (1907)
+- La Guerre russo-japonaise de 1904-1905 (1910)
+- Leçons tactiques de la guerre russo-japonaise (1912)
+
+[Evolution de l'Art Militaire](evoartmil.md)
+
 Stratégie - 1926
   - [Première Partie ("Préfaces", "Introduction" et "Stratégie et politique")](Stratégie 1.pdf)
   - [Deuxième Partie ("Préparation du Front armé", "Combinaison des opérations" et "Commandement")](Stratégie 2.pdf)
+
+Clausewitz
 
 
 
