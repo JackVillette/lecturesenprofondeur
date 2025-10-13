@@ -13,9 +13,9 @@ permalink: /artope/
 
 CYCLE GUERRE RUSSO-JAPONAISE
 - Actions tactiques en montagne basées sur l’expérience de la guerre russo-japonaise (1906)
-- Préjugés et Réalités du Combat (1907)
-- La Guerre russo-japonaise de 1904-1905 (1910)
-- Leçons tactiques de la guerre russo-japonaise (1912)
+- [Préjugés et Réalités du Combat](Prérécom.pdf) (1907)
+- [La Guerre russo-japonaise de 1904-1905](GuerreRUJAP.pdf) (1910)
+- [Leçons tactiques de la guerre russo-japonaise](LecTecRUJAP.pdf) (1912)
 
 [Evolution de l'Art Militaire](evoartmil.md)
 
