@@ -29,7 +29,7 @@ Stratégie - 1926
 
 # Georgi S. Isserson 
 
-[isserson-georgii-samoilovich.jpg](isserson-georgii-samoilovich.jpg) 
+![isserson-georgii-samoilovich.jpg](isserson-georgii-samoilovich.jpg) 
 
 
 - [L'Evolution de l'Art Opératif](L'Evolution de l'Art Opératif.pdf) - 1932, 2nde édition en 1936
