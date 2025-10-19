@@ -52,5 +52,7 @@ Chapitre 6 : Guerre franco-allemande de 1870-1871
 Chapitre 7 : Guerre russo-turque de 1877-1878
 
 Chapitre 8 : Guerre anglo-boers de 1899-1902
+
 Chapitre 9 : Guerre russo-japonaise de 1904-1905
+
 Chapitre 10 : XXe siècle
