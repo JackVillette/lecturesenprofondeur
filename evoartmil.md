@@ -19,9 +19,9 @@ Chapitre 4 : [Moyen Âge](T1C4.pdf)
 
 Chapitre 5 : [La renaissance de l'infanterie](T1C5.pdf)
 
-Chapitre 6 : L'art militaire de l'Orient
+Chapitre 6 : [L'art militaire de l'Orient](T1C6.pdf)
 
-Chapitre 7 : Armées mercenaires
+Chapitre 7 : [Armées de mercenaires](T1C7.pdf)
 
 Chapitre 8 : L'art militaire de la Réforme
 
