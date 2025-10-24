@@ -23,17 +23,17 @@ Chapitre 6 : [L'art militaire de l'Orient](T1C6.pdf)
 
 Chapitre 7 : [Armées de mercenaires](T1C7.pdf)
 
-Chapitre 8 : L'art militaire de la Réforme
+Chapitre 8 : [L'art militaire de la Réforme](T1C8.pdf)
 
-Chapitre 9 : Le développement des armées permanentes
+Chapitre 9 : [Le développement des armées permanentes](T1C9.pdf)
 
-Chapitre 10 : Frédéric le Grand
+Chapitre 10 : [Frédéric le Grand](T1C10.pdf)
 
-Chapitre 11 : Les destinées de l'art militaire en Russie
+Chapitre 11 : [Les destinées de l'art militaire en Russie](T1C11.pdf)
 
-Chapitre 12 : La Révolution française
+Chapitre 12 : [La Révolution française](T1C12.pdf)
 
-Chapitre 13 : Napoléon
+Chapitre 13 : [Napoléon](T1C13.pdf)
 
 TOME II
 
