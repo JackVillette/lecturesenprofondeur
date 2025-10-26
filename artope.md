@@ -12,7 +12,7 @@ permalink: /artope/
 ![Svetchine](svechin.jpg)
 
 CYCLE GUERRE RUSSO-JAPONAISE
-- Actions tactiques en montagne basées sur l’expérience de la guerre russo-japonaise (1906)
+- [Actions tactiques en montagne basées sur l’expérience de la guerre russo-japonaise](TacMont.pdf) (1906)
 - [Préjugés et Réalités du Combat](Prérécom.pdf) (1907)
 - [La Guerre russo-japonaise de 1904-1905](GuerreRUJAP.pdf) (1910)
 - [Leçons tactiques de la guerre russo-japonaise](LecTacRUJAP.pdf) (1912)
