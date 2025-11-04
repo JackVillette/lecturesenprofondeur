@@ -18,6 +18,7 @@ CYCLE GUERRE RUSSO-JAPONAISE
 
 - Evolution de l'Art Militaire
 - Stratégie
+- L'Art de conduire un régiment
 - Clausewitz
 
 G.S. Isserson : 
