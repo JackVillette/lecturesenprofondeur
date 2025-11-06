@@ -17,15 +17,16 @@ CYCLE GUERRE RUSSO-JAPONAISE
 - [La Guerre russo-japonaise de 1904-1905](GuerreRUJAP.pdf) (1910)
 - [Leçons tactiques de la guerre russo-japonaise](LecTacRUJAP.pdf) (1912)
 
-[Evolution de l'Art Militaire](evoartmil.md)
 
 Stratégie - 1926
   - [Première Partie ("Préfaces", "Introduction" et "Stratégie et politique")](Stratégie 1.pdf)
   - [Deuxième Partie ("Préparation du Front armé", "Combinaison des opérations" et "Commandement")](Stratégie 2.pdf)
 
+[Evolution de l'Art Militaire](evoartmil.md) - 1927
+
 [L'Art de Conduire un Régiment](ArtCondReg.pdf) - 1930
 
-[Clausewitz](BioClausewitz.pdf)
+[Clausewitz](BioClausewitz.pdf) - 1935
 
 
 
