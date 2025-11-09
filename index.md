@@ -25,6 +25,7 @@ CYCLE GUERRE RUSSO-JAPONAISE
 - La Guerre russo-japonaise de 1904-1905 (1910)
 - Leçons tactiques de la guerre russo-japonaise (1912)
 
+- Stratégie dans les œuvres des classiques militaires
 - Evolution de l'Art Militaire
 - Stratégie
 - L'Art de conduire un régiment
