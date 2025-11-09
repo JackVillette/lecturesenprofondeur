@@ -28,8 +28,8 @@ CYCLE GUERRE RUSSO-JAPONAISE
 
 
 - Stratégie dans les œuvres des classiques militaires
-- Evolution de l'Art Militaire
 - Stratégie
+- Evolution de l'Art Militaire
 - L'Art de conduire un régiment
 - Clausewitz
 
