@@ -20,9 +20,7 @@ CYCLE GUERRE RUSSO-JAPONAISE
 
 Stratégie dans les œuvres des classiques militaires : 
 
-Tome 1 - 1924
-
-Tome 2 - 1926
+Tome 1 et Tome 2 (1924-1926)
 
 
 Stratégie - 1926
