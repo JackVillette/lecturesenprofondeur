@@ -37,13 +37,13 @@ Chapitre 13 : [Napoléon](T1C13.pdf)
 
 TOME II
 
-Chapitre 1 : Guerre de Crimée de 1853 à 1856
+Chapitre 1 : [Guerre de Crimée de 1853 à 1856](T2C1.pdf)
 
-Chapitre 2 : La Guerre d'Italie de 1859
+Chapitre 2 : [La Guerre d'Italie de 1859](T2C2.pdf)
 
-Chapitre 3 : Essai sur la guerre civile aux États-Unis
+Chapitre 3 : [Essai sur la guerre civile aux États-Unis](T2C3.pdf)
 
-Chapitre 4 : L'armée prussienne à l'époque de l'unification de l'Allemagne
+Chapitre 4 : [L'armée prussienne à l'époque de l'unification de l'Allemagne](T2C4.pdf)
 
 Chapitre 5 : La guerre pour l'hégémonie en Allemagne en 1866.
 
