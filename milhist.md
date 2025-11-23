@@ -16,6 +16,13 @@ permalink: /milhist/
   - [La Période des Armées Nationales](HDV4L4Armnat.pdf)
     
 
+## Principes tactique et stratégique du présent - Sigismund Schlichting
+
+- Volume I : Les tactiques des armes au regard des règlements militaires
+- Volume II : Commandement des troupes
+- Volume III : Commandement des troupes (suite)
+
+
 ## Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - Ian Senior
 
 - [Introduction et Chapitre 1](Invasion1914 Chap1.pdf) : Le Plan Schlieffen-Moltke
