@@ -87,6 +87,8 @@ Collectif :
 
 - Histoire de l'Art de la Guerre - H. Delbrück
 
+- Principes tactique et stratégique du présent - S. Schlichting
+
 - Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - I. Senior
 
 - L'Art de la Guerre Mongol - T. May
