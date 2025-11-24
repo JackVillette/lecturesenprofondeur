@@ -51,7 +51,7 @@ Chapitre 6 : [Guerre franco-allemande de 1870-1871](T2C6.pdf)
 
 Chapitre 7 : [Guerre russo-turque de 1877-1878](T2C7.pdf)
 
-Chapitre 8 : [Guerre anglo-boers de 1899-1902](T2C8.pdf)
+Chapitre 8 : [Guerre anglo-boer de 1899-1902](T2C8.pdf)
 
 Chapitre 9 : [Guerre russo-japonaise de 1904-1905](T2C9.pdf)
 
