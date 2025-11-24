@@ -45,14 +45,14 @@ Chapitre 3 : [Essai sur la guerre civile aux États-Unis](T2C3.pdf)
 
 Chapitre 4 : [L'armée prussienne à l'époque de l'unification de l'Allemagne](T2C4.pdf)
 
-Chapitre 5 : La guerre pour l'hégémonie en Allemagne en 1866.
+Chapitre 5 : [La guerre pour l'hégémonie en Allemagne en 1866](T2C5.pdf)
 
-Chapitre 6 : Guerre franco-allemande de 1870-1871
+Chapitre 6 : [Guerre franco-allemande de 1870-1871](T2C6.pdf)
 
-Chapitre 7 : Guerre russo-turque de 1877-1878
+Chapitre 7 : [Guerre russo-turque de 1877-1878](T2C7.pdf)
 
-Chapitre 8 : Guerre anglo-boers de 1899-1902
+Chapitre 8 : [Guerre anglo-boers de 1899-1902](T2C8.pdf)
 
-Chapitre 9 : Guerre russo-japonaise de 1904-1905
+Chapitre 9 : [Guerre russo-japonaise de 1904-1905](T2C9.pdf)
 
-Chapitre 10 : XXe siècle
+Chapitre 10 : [XXe siècle](T2C10.pdf)
