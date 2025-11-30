@@ -8,6 +8,8 @@ permalink: /divers/
 
 - ["Le Clausewitz Rouge" : Friedrich Engels et la Pensée Militaire Socialiste](Clausewitz Rouge.pdf) - M. Boden
 
+- ["Sur la psychologie de la Guerre de Sept Ans"](Psy7YWar.pdf)
+
 - [Les Guerres Hussites 1419-136](Guerres Hussites.pdf) - Stephen Turnbull
   
 - [Les Guerres Paysannes du XXè Siècle](Guerres paysannes.pdf) - Eric Wolf
