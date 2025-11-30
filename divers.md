@@ -4,11 +4,11 @@ title: Divers
 permalink: /divers/
 ---
 
-- [Réflexions générales sur la Campagne du Bade](Réflexions générales.pdf) - L. Mieroslawski
+- [Réflexions générales sur la Campagne du Bade](Réflexions générales.pdf) - Ludwik Mieroslawski
 
-- ["Le Clausewitz Rouge" : Friedrich Engels et la Pensée Militaire Socialiste](Clausewitz Rouge.pdf) - M. Boden
+- ["Le Clausewitz Rouge" : Friedrich Engels et la Pensée Militaire Socialiste](Clausewitz Rouge.pdf) - Michael Boden
 
-- ["Sur la psychologie de la Guerre de Sept Ans"](Psy7YWar.pdf)
+- ["Sur la psychologie de la Guerre de Sept Ans"](Psy7YWar.pdf) - Franz Mehring
 
 - [Les Guerres Hussites 1419-136](Guerres Hussites.pdf) - Stephen Turnbull
   
