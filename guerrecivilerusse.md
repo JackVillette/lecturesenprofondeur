@@ -24,8 +24,8 @@ permalink: /armeerouge/guerrecivilerusse/
 - [Chapitre 17](Chapitre 17.pdf) : Établissement de la coordination des Fronts
 - [Chapitre 18](Chapitre 18.pdf) : L'engagement général sur la Vistule et la Wkra
 - [Chapitre 19](Chapitre 19.pdf) : La campagne de 1920 sur le Front Crimée-Tavriya
-- Chapitre 20 : Opérations sur le Dniepr inférieur et au Kouban
-- Chapitre 21 : L'élimination de Wrangel
-- Supplément : La campagne de Boukhara en 1920 et un bref aperçu des campagnes de 1921 et 1922
+- [Chapitre 20](Chapitre 20.pdf) : Opérations sur le Dniepr inférieur et au Kouban
+- [Chapitre 21](Chapitre 21.pdf) : L'élimination de Wrangel
+- [Supplément](Supplément.pdf) : La campagne de Boukhara en 1920 et un bref aperçu des campagnes de 1921 et 1922
   
  
