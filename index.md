@@ -63,6 +63,8 @@ Collectif :
 
 - Règlements de terrain de l'Armée Rouge
 
+- Vie et Théories de G. Isserson - R.W. Harrison
+
 - La Guerre Civile et l'Armée Rouge - S.I. Gusev
 
 - *Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
