@@ -61,11 +61,11 @@ Collectif :
     
 # [Collection "Armée Rouge"](armeerouge.md)
 
+- Règlements de terrain de l'Armée Rouge
+
 - La Guerre Civile et l'Armée Rouge - S.I. Gusev
 
 - *Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
-
-- *Règlement de terrain de l'Armée Rouge PU-36*
 
 - La Guerre Civile Russe, 1918-1921 - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
 
