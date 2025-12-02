@@ -6,11 +6,12 @@ permalink: /armeerouge/
 
 # Collection "Armée Rouge"
 
+Règlements de terrain de l'Armée Rouge :
+- Règlement de terrain de 1936
+
 [La Guerre Civile et l'Armée Rouge](CivWarRedArmy.pdf) - S.I. Gusev
 
 *Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
-
-*Règlement de terrain de l'Armée Rouge PU-36*
 
 [La Guerre Civile Russe, 1918-1921](guerrecivilerusse.md) - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
 
