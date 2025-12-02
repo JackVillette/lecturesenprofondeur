@@ -11,6 +11,8 @@ Règlements de terrain de l'Armée Rouge :
 
 [La Guerre Civile et l'Armée Rouge](CivWarRedArmy.pdf) - S.I. Gusev
 
+[Architecte de la Victoire soviétique dans la Seconde Guerre mondiale : Vie et Théories de G. Isserson](BioIsserson.pdf) - Richard W. Harrison
+
 *Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
 
 [La Guerre Civile Russe, 1918-1921](guerrecivilerusse.md) - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
