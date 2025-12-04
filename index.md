@@ -77,7 +77,7 @@ Collectif :
 
 - *Stratégie militaire* - V.D. Sokolovsky
 
-- *L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941)* - M. Mukhin
+- L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941) - M. Mukhin
 
 - L'Art Opératif Militaire Soviétique - D. Glantz
 
