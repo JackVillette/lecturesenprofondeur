@@ -25,7 +25,7 @@ Règlements de terrain de l'Armée Rouge :
 
 [L'Art Opératif Militaire Soviétique](Art Opérationnel Soviétique.pdf) - David Glantz
 
-*L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941)* - Mikhaïl Mukhin
+[L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941)](Industrie militaire URSS.pdf) - Mikhaïl Mukhin
 
 [Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif](Masse et Mobilité.pdf) - Jacob Kipp
 
