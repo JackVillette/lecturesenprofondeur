@@ -53,6 +53,12 @@ Stratégie - 1926
 
 - [Le Développement de la Théorie de l'Art Opératif](Le Développement de la Théorie de l'Art Opératif.pdf) - 1965
 
+# Mikhaïl Toukhatchevski
+
+![Toukhatchevski](Toukhatchevski.jpg)
+
+- Ecrits choisis
+
 # Vladimir K. Triandafillov
 
 ![Triandafillov](Triandafillov.jpg)
