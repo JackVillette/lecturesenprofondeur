@@ -57,7 +57,7 @@ Stratégie - 1926
 
 ![Toukhatchevski](Toukhatchevski.jpg)
 
-- Ecrits choisis
+- [Ecrits choisis](toukha.md)
 
 # Vladimir K. Triandafillov
 
