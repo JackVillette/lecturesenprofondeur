@@ -49,7 +49,7 @@ G.S. Isserson :
 
 M. Toukhatchevski :
 
-- Ecrits choisis
+- Oeuvres choisies
 
 V. Triandafillov :
 
