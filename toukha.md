@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ecrits choisis (Toukhatchevski)
+title: Oeuvres choisies (Toukhatchevski)
 permalink: /artope/toukha
 ---
 
