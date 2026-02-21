@@ -9,9 +9,9 @@ permalink: /artope/toukha
 - Mesure technique des opérations
 - Entraînement des troupes
 - Campagne de la Vistule
-- Stratégie organisationnelle
-- Questions du haut commandement
-- Manoeuvre et artillerie
+- [Stratégie organisationnelle](11. Stratégie organisationnelle.pdf)
+- [Questions du haut commandement](12. Questions du haut commandement.pdf)
+- [Manoeuvre et artillerie](13. Manoeuvre et artillerie.pdf)
 - Questions d'organisation et de tactiques de l'infanterie
 - Questions de stratégie moderne
 - Apprendre à interagir
