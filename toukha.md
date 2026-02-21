@@ -12,7 +12,7 @@ permalink: /artope/toukha
 - [Stratégie organisationnelle](11. Stratégie organisationnelle.pdf)
 - [Questions du haut commandement](12. Questions du haut commandement.pdf)
 - [Manoeuvre et artillerie](13. Manoeuvre et artillerie.pdf)
-- Questions d'organisation et de tactiques de l'infanterie
+- [Questions d'organisation et de tactiques de l'infanterie](15. Questions d'organisation et de tactiques de l'infanterie.pdf)
 - Questions de stratégie moderne
 - Apprendre à interagir
 - Tactiques et entraînement
