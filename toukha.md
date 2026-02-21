@@ -4,7 +4,7 @@ title: Oeuvres choisies (Toukhatchevski)
 permalink: /artope/toukha
 ---
 
-- Stratégie nationale et stratégie de classe
+- [Stratégie nationale et stratégie de classe](2. Stratégie nationale, stratégie de classe.pdf)
 - Statistiques pendant la Guerre civile
 - Mesure technique des opérations
 - Entraînement des troupes
