@@ -114,6 +114,9 @@ Collectif :
 - Les Guerres Paysannes du XXè Siècle - E. Wolf
 
 - Misreading Svechin : Attrition, Annihilation and Historicism - D.R. Stones
+
+- Deux Lettres sur la Stratégie - C. von Clausewitz
+  
   
   
 
