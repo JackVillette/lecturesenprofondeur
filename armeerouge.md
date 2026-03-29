@@ -13,6 +13,10 @@ Règlements de terrain de l'Armée Rouge :
 
 [Architecte de la Victoire soviétique dans la Seconde Guerre mondiale : Vie et Théories de G. Isserson](BioIsserson.pdf) - Richard W. Harrison
 
+La Bataille de Koursk - Richard W. Harrison
+- Livre 1 : La Bataille Défensive (Juillet 1943)
+- Livre 2 : La Défaite des Allemands (Juillet-Août 1943)
+
 *Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
 
 [La Guerre Civile Russe, 1918-1921](guerrecivilerusse.md) - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
