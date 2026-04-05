@@ -67,6 +67,13 @@ Stratégie - 1926
 
 - [Interaction entre les fronts de l’Ouest et du Sud-Ouest lors de l’offensive estivale de l’Armée rouge sur la Vistule en 1920](Interaction entre le Front Ouest et le Front Sud-Ouest.pdf) - 1925 (Guerre et révolution n°2, mars-avril)
 
+# Nikolaï Varfolomeev
+
+![Varfolomeev](varfolomeev.jpg)
+
+- L'Armée de Choc - 1933
+
+
 
 # Divers
 
