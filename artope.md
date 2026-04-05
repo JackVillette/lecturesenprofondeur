@@ -71,7 +71,7 @@ Stratégie - 1926
 
 ![Varfolomeev](varfolomeev.jfif)
 
-- L'Armée de Choc - 1933
+- [L'Armée de Choc](ArméeChoc.pdf) - 1933
 
 
 
