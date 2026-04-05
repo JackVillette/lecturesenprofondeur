@@ -57,6 +57,10 @@ V. Triandafillov :
 
 - Interaction entre les fronts de l’Ouest et du Sud-Ouest lors de l’offensive estivale de l’Armée rouge sur la Vistule en 1920
 
+N. Varfolomeev :
+
+- L'Armée de Choc
+
 
 Collectif :
 
