@@ -69,7 +69,7 @@ Stratégie - 1926
 
 # Nikolaï Varfolomeev
 
-![Varfolomeev](varfolomeev.jpg)
+![Varfolomeev](varfolomeev.jfif)
 
 - L'Armée de Choc - 1933
 
