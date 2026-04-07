@@ -85,7 +85,7 @@ Collectif :
 
 - La Guerre de Staline contre le Japon - C. Stephenson
 
-- *Stratégie militaire* - V.D. Sokolovsky
+- Stratégie militaire - V.D. Sokolovsky
 
 - L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941) - M. Mukhin
 
