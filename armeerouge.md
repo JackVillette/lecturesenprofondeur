@@ -25,7 +25,7 @@ La Bataille de Koursk - Richard W. Harrison
 
 [Aigle blanc, Etoile rouge : la Guerre soviéto-polonaise](ABER.pdf) - Norman Davies
 
-*Stratégie militaire* - V.D. Sokolovsky
+[Stratégie militaire](StratégieMilitaireSokolovsky.pdf) - V.D. Sokolovsky
 
 [L'Art Opératif Militaire Soviétique](Art Opérationnel Soviétique.pdf) - David Glantz
 
