@@ -11,7 +11,7 @@ permalink: /milhist/
 - III. Le Moyen-Âge
   - Charlemagne et ses successeurs
   - L'Etat féodal à l'apogée de son développement
-  - Le Haut Moyen-Âge
+  - [Le Haut Moyen-Âge](HDV3L3HMA.pdf)
   - Le Moyen-Âge tardif
   - Les Suisses
 - IV. L'Époque Moderne
