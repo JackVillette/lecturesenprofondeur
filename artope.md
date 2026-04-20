@@ -73,7 +73,9 @@ Stratégie - 1926
 
 - [L'Armée de Choc](ArméeChoc.pdf) - 1933
 
+# Smirnov
 
+- [La Percée de la Zone Fortifiée](Percée du front.pdf) - 1941
 
 # Divers
 
