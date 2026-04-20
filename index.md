@@ -61,6 +61,10 @@ N. Varfolomeev :
 
 - L'Armée de Choc
 
+P.S. Smirnov :
+
+- La Percée de la Zone Fortiiée
+
 
 Collectif :
 
