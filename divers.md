@@ -4,6 +4,8 @@ title: Divers
 permalink: /divers/
 ---
 
+- [La Police Secrète dans la Russie de Lénine](Tchéka.pdf)
+
 - [Réflexions générales sur la Campagne du Bade](Réflexions générales.pdf) - Ludwik Mieroslawski
 
 - ["Le Clausewitz Rouge" : Friedrich Engels et la Pensée Militaire Socialiste](Clausewitz Rouge.pdf) - Michael Boden
