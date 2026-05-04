@@ -110,6 +110,8 @@ Collectif :
 - L'Art de la Guerre Mongol - T. May
 
 - Cavalerie : Histoire de la guerre montée - J. Ellis
+
+- La Mort de l'Armée de Samsonov - G.I. Isserson
   
 # [Divers](divers.md)
 
