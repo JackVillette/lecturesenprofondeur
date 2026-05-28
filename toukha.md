@@ -22,12 +22,12 @@ permalink: /artope/toukha
 - Nouveaux défis d'apprentissage
 - Notre formation et nos tâches pratiques
 - Organisation de l'entraînement au combat
-- Préface à "L'histoire de l'art de la guerre dans le cadre de l'histoire politique" de Delbrück
+- [Préface à "L'histoire de l'art de la guerre dans le cadre de l'histoire politique" de Delbrück](26. Préface Delbrück.pdf)
 - Préparation d'une nouvelle guerre contre l'URSS
-- Nouvelles questions de la guerre
+- [Nouvelles questions de la guerre](29. Nouvelles Question de la Guerre.pdf)
 - Problèmes de gestion
 - Sur le développement des formes de gestion
 - Arts militaires
-- Plans militaires de l'Allemagne d'aujourd'hui
-- Sur les nouveaux Règlements de campagne de l'Armée Rouge
+- [Plans militaires de l'Allemagne d'aujourd'hui](32. Plan Militaire Allemagne.pdf)
+- [Sur les nouveaux Règlements de campagne de l'Armée Rouge](35. Nouveaux Règlements de Campagne.pdf)
   
