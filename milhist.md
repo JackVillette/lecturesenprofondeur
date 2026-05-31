@@ -24,7 +24,7 @@ permalink: /milhist/
 ## Principes tactique et stratégique du présent - Sigismund Schlichting
 
 - Volume I : [Les tactiques des armes au regard des règlements militaires](PrinStratTactPres1.pdf)
-- Volume II : Commandement des troupes
+- Volume II : [Commandement des troupes](PrinStratTactPres2.pdf)
 - Volume III : Commandement des troupes (suite)
 
 
