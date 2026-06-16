@@ -35,6 +35,8 @@ CYCLE GUERRE RUSSO-JAPONAISE
 
 G.S. Isserson : 
 
+- L'Offensive de Mars des Allemands en Picardie en 1918
+
 - L'Évolution de l'Art Opératif
 
 - Les Fondements de l'Opération en Profondeur
