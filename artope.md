@@ -39,6 +39,8 @@ Stratégie - 1926
 ![isserson-georgii-samoilovich.jpg](isserson-georgii-samoilovich.jpg) 
 
 
+- [L'Offensive de Mars des Allemands en Picardie en 1918](OffensiveAllemande1918.pdf)
+
 - [L'Evolution de l'Art Opératif](L'Evolution de l'Art Opératif.pdf) - 1932, 2nde édition en 1936
 
 
