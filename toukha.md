@@ -5,18 +5,19 @@ permalink: /artope/toukha
 ---
 
 - [Stratégie nationale et stratégie de classe](2. Stratégie nationale, stratégie de classe.pdf)
-- Statistiques pendant la Guerre civile
-- Mesure technique des opérations
-- Entraînement des troupes
-- Campagne de la Vistule
+- [Statistiques pendant la Guerre civile](3. Statistiques pendant la guerre civile.pdf)
+- [Mesure technique des opérations](4. Mesure technique des opérations.pdf)
+- [La Première Armée en 1918](5. La Première Armée en 1918.pdf)
+- [Entraînement des troupes](6. Entraînement des troupes.pdf)
+- [Campagne de la Vistule](9. Campagne Vistule.pdf)
 - [Stratégie organisationnelle](11. Stratégie organisationnelle.pdf)
 - [Questions du haut commandement](12. Questions du haut commandement.pdf)
 - [Manoeuvre et artillerie](13. Manoeuvre et artillerie.pdf)
 - [Questions d'organisation et de tactiques de l'infanterie](15. Questions d'organisation et de tactiques de l'infanterie.pdf)
 - Questions de stratégie moderne
-- Apprendre à interagir
-- Tactiques et entraînement
-- Tâches de formation combinées
+- [Apprendre à interagir](17. Apprendre à interagir.pdf)
+- [Tactiques et entraînement](18. Tactiques et entraînement.pdf)
+- [Tâches de formation combinées](19. Tâches de formations combinées.pdf)
 - La guerre comme problème de lutte armée
 - Leçons de la Guerre civile
 - Nouveaux défis d'apprentissage
