@@ -13,6 +13,8 @@ Règlements de terrain de l'Armée Rouge :
 
 [Architecte de la Victoire soviétique dans la Seconde Guerre mondiale : Vie et Théories de G. Isserson](BioIsserson.pdf) - Richard W. Harrison
 
+[Le Développement de l'Art Opératif Russo-Soviétique, 1904-1937](DéveloppementArtOpératif.pdf) - Richard W. Harrison
+
 La Bataille de Koursk - Richard W. Harrison
 - Livre 1 : La Bataille Défensive (Juillet 1943)
 - Livre 2 : La Défaite des Allemands (Juillet-Août 1943)
