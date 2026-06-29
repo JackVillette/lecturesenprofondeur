@@ -49,9 +49,9 @@ permalink: /milhist/
 
 [Cavalerie : Histoire de la Guerre Montée](Cavalerie.pdf)
 
-## Les Guerres Serviles dans le Monde Romain - Keith R. Bradley
+## Esclavage et Rébellion dans le Monde Romain - Keith R. Bradley
 
-[Les Guerres Serviles dans le Monde Romain](GuerreServile.pdf)
+[Esclavage et Rébellion dans le Monde Romain](GuerreServile.pdf)
 
 ## Divers
 
