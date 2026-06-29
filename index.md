@@ -113,6 +113,8 @@ Collectif :
 
 - Cavalerie : Histoire de la guerre montée - J. Ellis
 
+- Les Guerres Serviles dans le Monde Romain - Keith R. Bradley
+
 - La Mort de l'Armée de Samsonov - G.I. Isserson
   
 # [Divers](divers.md)
