@@ -117,7 +117,7 @@ Collectif :
 
 - La Mort de l'Armée de Samsonov - G.I. Isserson
 
-# Collection "Naval"
+# [Collection "Naval"](naval.md)
 
 - Le Développement de la Pensée Navale - H. Rosinski
   
