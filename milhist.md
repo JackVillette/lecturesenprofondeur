@@ -40,6 +40,16 @@ permalink: /milhist/
 - [Chapitre 8](Invasion1914 Chap8.pdf) : La veille de la bataille
 - [Chapitre 9](Invasion1914 Chap9.pdf) : Pris par surprise
 
+
+## La Guerre Civile Espagnole : une histoire militaire - Charles J. Eisdale
+
+[La Guerre Civile Espagnole](SCW.pdf)
+
+
+## Espagne en Armes - E.R. Hooton
+
+[Espagne en Armes](SpainArms.pdf)
+
 ## L'Art de la Guerre Mongol - Timothy May
 
 [L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf)
