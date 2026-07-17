@@ -109,6 +109,10 @@ Collectif :
 
 - Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - I. Senior
 
+- La Guerre Civile Espagnole : une histoire militaire - C. J. Esdaile
+
+- Espagne en Armes - E.R. Hooton
+
 - L'Art de la Guerre Mongol - T. May
 
 - Cavalerie : Histoire de la guerre montée - J. Ellis
