@@ -144,6 +144,9 @@ Collectif :
 - Misreading Svechin : Attrition, Annihilation and Historicism - D.R. Stones
 
 - Deux Lettres sur la Stratégie - C. von Clausewitz
+
+- L'Impact des Drones sur la Guerre de Manoeuvre - Major J. Salter
+
   
   
   
