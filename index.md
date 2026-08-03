@@ -124,6 +124,8 @@ Collectif :
 # [Collection "Naval"](naval.md)
 
 - Le Développement de la Pensée Navale - H. Rosinski
+
+- La Nouvelle Marine de la Chine - Xiaobing Li
   
 # [Divers](divers.md)
 
