@@ -20,6 +20,6 @@ permalink: /divers/
 
 - [Deux Lettres sur la Stratégie](Deux Lettres.pdf) - Carl von Clausewitz
   
-
+- [L'Impact des Drones sur la Guerre de Manoeuvre](DroneManoeuvre.pdf) - Major Justin Salter
 
 
