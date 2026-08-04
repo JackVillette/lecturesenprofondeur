@@ -37,6 +37,8 @@ G.S. Isserson :
 
 - L'Offensive de Mars des Allemands en Picardie en 1918
 
+- La Mort de l'Armée de Samsonov
+
 - L'Évolution de l'Art Opératif
 
 - Les Fondements de l'Opération en Profondeur
