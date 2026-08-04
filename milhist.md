@@ -63,7 +63,4 @@ permalink: /milhist/
 
 [Esclavage et Rébellion dans le Monde Romain](GuerreServile.pdf)
 
-## Divers
-
-- [La Mort de l'Armée de Samsonov](CannesWW1.pdf) - G.I. Isserson
 
