@@ -121,8 +121,6 @@ Collectif :
 
 - Esclavage et Rébellion dans le Monde Romain - Keith R. Bradley
 
-- La Mort de l'Armée de Samsonov - G.I. Isserson
-
 # [Collection "Naval"](naval.md)
 
 - Le Développement de la Pensée Navale - H. Rosinski
