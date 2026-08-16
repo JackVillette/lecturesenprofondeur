@@ -11,7 +11,7 @@ Règlements de terrain de l'Armée Rouge :
 
 [La Guerre Civile et l'Armée Rouge](CivWarRedArmy.pdf) - S.I. Gusev
 
-[La Cavalerie dans l'expérience des guerres mondiale et civile](PevnevCavalerie.pdf)
+[La Cavalerie dans l'expérience des guerres mondiale et civile](PevnevCavalerie.pdf) - A.L. Pevnev
 
 [Architecte de la Victoire soviétique dans la Seconde Guerre mondiale : Vie et Théories de G. Isserson](BioIsserson.pdf) - Richard W. Harrison
 
