@@ -9,7 +9,7 @@ permalink: /milhist/
 
 - I. L'Antiquité
 - III. Le Moyen-Âge
-  - Charlemagne et ses successeurs
+  - [Charlemagne et ses successeurs](HDV3L1Charlemagne.pdf)
   - L'Etat féodal à l'apogée de son développement
   - [Le Haut Moyen-Âge](HDV3L3HMA.pdf)
   - Le Moyen-Âge tardif
