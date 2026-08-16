@@ -85,6 +85,8 @@ Collectif :
 
 - La Guerre Civile et l'Armée Rouge - S.I. Gusev
 
+- La Cavalerie dans l'expérience des guerres mondiale et civile - A.L. Pevnev
+
 - *Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
 
 - La Guerre Civile Russe, 1918-1921 - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
