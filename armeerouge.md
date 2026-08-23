@@ -7,6 +7,7 @@ permalink: /armeerouge/
 # Collection "Armée Rouge"
 
 Règlements de terrain de l'Armée Rouge :
+- [Règlement de terrain de 1929](PU-29.pdf)
 - [Règlement de terrain de 1936](PU-36.pdf)
 
 [La Guerre Civile et l'Armée Rouge](CivWarRedArmy.pdf) - S.I. Gusev
