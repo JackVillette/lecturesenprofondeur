@@ -41,6 +41,10 @@ permalink: /milhist/
 - [Chapitre 9](Invasion1914 Chap9.pdf) : Pris par surprise
 
 
+## Steel Wind : Le Colonel Georg Bruchmüller et la Naissance de l'Artillerie Moderne - David T. Zabecki
+
+[Steel Wind](Steel Wind.pdf) 
+
 ## La Guerre Civile Espagnole : une histoire militaire - Charles J. Eisdale
 
 [La Guerre Civile Espagnole](SCW.pdf)
