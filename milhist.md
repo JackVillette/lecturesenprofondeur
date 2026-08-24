@@ -43,7 +43,7 @@ permalink: /milhist/
 
 ## Steel Wind : Le Colonel Georg Bruchmüller et la Naissance de l'Artillerie Moderne - David T. Zabecki
 
-
+[Steel Wind](SteelWind.pdf)
 
 ## La Guerre Civile Espagnole : une histoire militaire - Charles J. Eisdale
 
