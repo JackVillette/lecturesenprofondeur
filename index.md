@@ -117,6 +117,8 @@ Collectif :
 
 - Steel Wind : Le Colonel Georg Bruchmüller et la Naissance de l'Artillerie Moderne - D. T. Zabecki
 
+- Etude sur l'attaque dans la période actuelle de la guerre - A. Laffargue
+
 - La Guerre Civile Espagnole : une histoire militaire - C. J. Esdaile
 
 - Espagne en Armes - E.R. Hooton
