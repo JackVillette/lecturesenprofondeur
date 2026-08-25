@@ -41,29 +41,18 @@ permalink: /milhist/
 - [Chapitre 9](Invasion1914 Chap9.pdf) : Pris par surprise
 
 
-## Steel Wind : Le Colonel Georg Bruchmüller et la Naissance de l'Artillerie Moderne - David T. Zabecki
 
 [Steel Wind](SteelWind.pdf)
 
-## La Guerre Civile Espagnole : une histoire militaire - Charles J. Eisdale
-
 [La Guerre Civile Espagnole](SCW.pdf)
 
-
-## Espagne en Armes - E.R. Hooton
+[Etude sur l'attaque dans la période actuelle de la guerre](LaffargueEtudeAttaque.pdf)
 
 [Espagne en Armes](SpainArms.pdf)
 
-## L'Art de la Guerre Mongol - Timothy May
-
 [L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf)
 
-
-## Cavalerie : Histoire de la Guerre Montée - John Ellis
-
 [Cavalerie : Histoire de la Guerre Montée](Cavalerie.pdf)
-
-## Esclavage et Rébellion dans le Monde Romain - Keith R. Bradley
 
 [Esclavage et Rébellion dans le Monde Romain](GuerreServile.pdf)
 
