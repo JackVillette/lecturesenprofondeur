@@ -32,7 +32,7 @@ Stratégie - 1926
 
 [Clausewitz](BioClausewitz.pdf) - 1935
 
-
+[Fait Tactique (Guerre et Révolution n°7-8, 1934)](FaitTactique.pdf)
 
 # Georgi S. Isserson 
 
