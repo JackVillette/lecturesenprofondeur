@@ -33,6 +33,7 @@ Stratégie - 1926
 [Clausewitz](BioClausewitz.pdf) - 1935
 
 [Evolution du Déploiement opérationnel (Guerre et Révolution n°5, 1926)](EvoDepOpe.pdf)
+
 [Fait Tactique (Guerre et Révolution n°7-8, 1934)](FaitTactique.pdf)
 
 # Georgi S. Isserson 
