@@ -33,6 +33,8 @@ CYCLE GUERRE RUSSO-JAPONAISE
 - L'Art de conduire un régiment
 - Clausewitz
 
+- Fait Tactique (Guerre et Révolution n°7-8, 1934)
+
 G.S. Isserson : 
 
 - L'Offensive de Mars des Allemands en Picardie en 1918
