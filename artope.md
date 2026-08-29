@@ -81,11 +81,12 @@ Stratégie - 1926
 
 - [L'Armée de Choc](ArméeChoc.pdf) - 1933
 
-# Smirnov
 
 - [La Percée de la Zone Fortifiée](Percée du front.pdf) - 1941
 
 # Divers
+
+- [La Percée de la Zone Fortifiée](Percée du front.pdf) - P. Smirnov (1941)
 
 - [Concentration opérationnelle](Concentration opérationnelle Zhuravlev.pdf) - N. Zhuravlev (1935)
 
