@@ -44,7 +44,7 @@ permalink: /milhist/
 - [Espagne en Armes](SpainArms.pdf) - Edward R. Hooton
 
 
-# DIVERS
+## DIVERS
 
 [L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf) - Timothy May
 
