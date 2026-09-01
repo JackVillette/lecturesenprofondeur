@@ -32,7 +32,7 @@ Stratégie - 1926
 
 [Clausewitz](BioClausewitz.pdf) - 1935
 
-[Mouvement pour les Tirs](MouvementTir.pdf)
+[Mouvement vers le Feu](MouvementTir.pdf)
 
 [Evolution du Déploiement opérationnel (Guerre et Révolution n°5, 1926)](EvoDepOpe.pdf)
 
