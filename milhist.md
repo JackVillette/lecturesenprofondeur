@@ -46,10 +46,10 @@ permalink: /milhist/
 
 # DIVERS
 
-[L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf)
+[L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf) - Timothy May
 
-[Cavalerie : Histoire de la Guerre Montée](Cavalerie.pdf)
+[Cavalerie : Histoire de la Guerre Montée](Cavalerie.pdf) - John Ellis
 
-[Esclavage et Rébellion dans le Monde Romain](GuerreServile.pdf)
+[Esclavage et Rébellion dans le Monde Romain](GuerreServile.pdf) - Keith R. Bradley
 
 
