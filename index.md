@@ -33,7 +33,7 @@ CYCLE GUERRE RUSSO-JAPONAISE
 - L'Art de conduire un régiment
 - Clausewitz
 
-- Mouvement pour les Tirs
+- Mouvement vers le Feu
 - Evolution du Déploiement opérationnel (Guerre et Révolution n°5, 1926)
 - Fait Tactique (Guerre et Révolution n°7-8, 1934)
 
