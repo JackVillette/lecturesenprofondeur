@@ -19,7 +19,7 @@ Règlements de terrain de l'Armée Rouge :
 [Le Développement de l'Art Opératif Russo-Soviétique, 1904-1937](DéveloppementArtOpératif.pdf) - Richard W. Harrison
 
 La Bataille de Koursk - Richard W. Harrison
-- Livre 1 : La Bataille Défensive (Juillet 1943)
+- [Livre 1 : La Bataille Défensive (Juillet 1943)](Koursk1.pdf)
 - Livre 2 : La Défaite des Allemands (Juillet-Août 1943)
 
 *Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
