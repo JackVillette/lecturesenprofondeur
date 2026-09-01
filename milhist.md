@@ -28,27 +28,23 @@ permalink: /milhist/
 - Volume III : Commandement des troupes (suite)
 
 
-## Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - Ian Senior
+## PREMIERE GUERRE MONDIALE
 
-- [Introduction et Chapitre 1](Invasion1914 Chap1.pdf) : Le Plan Schlieffen-Moltke
-- [Chapitre 2](Invasion 1914 Chap2.pdf) : Plan XVII
-- [Chapitre 3](Invasion 1914 Chap3.pdf) : Mouvements d'ouverture
-- [Chapitre 4](Invasion 1914 Chap4.pdf) : La bataille de Charleroi
-- [Chapitre 5](Invasion 1914 Chap5.pdf) : La retraite commence
-- [Chapitre 6](Invasion 1914 Chap6.pdf) : La bataille de Guise
-- [Chapitre 7](Invasion 1914 Chap7.pdf) : La retraite continue
-- [Chapitre 8](Invasion1914 Chap8.pdf) : La veille de la bataille
-- [Chapitre 9](Invasion1914 Chap9.pdf) : Pris par surprise
+- [Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne](Invasion1914.pdf) - Ian Senior
+
+- [Steel Wind](SteelWind.pdf)
+
+- [Etude sur l'attaque dans la période actuelle de la guerre](LaffargueEtudeAttaque.pdf)
 
 
+## GUERRE D'ESPAGNE 1936-1939
 
-[Steel Wind](SteelWind.pdf)
+- [La Guerre Civile Espagnole](SCW.pdf)
 
-[La Guerre Civile Espagnole](SCW.pdf)
+- [Espagne en Armes](SpainArms.pdf)
 
-[Etude sur l'attaque dans la période actuelle de la guerre](LaffargueEtudeAttaque.pdf)
 
-[Espagne en Armes](SpainArms.pdf)
+# DIVERS
 
 [L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf)
 
