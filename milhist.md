@@ -32,16 +32,16 @@ permalink: /milhist/
 
 - [Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne](Invasion1914.pdf) - Ian Senior
 
-- [Steel Wind](SteelWind.pdf)
+- [Steel Wind](SteelWind.pdf) - David T. Zabecki
 
-- [Etude sur l'attaque dans la période actuelle de la guerre](LaffargueEtudeAttaque.pdf)
+- [Etude sur l'attaque dans la période actuelle de la guerre](LaffargueEtudeAttaque.pdf) - André Laffargue
 
 
 ## GUERRE D'ESPAGNE 1936-1939
 
-- [La Guerre Civile Espagnole](SCW.pdf)
+- [La Guerre Civile Espagnole](SCW.pdf) - Charles J. Eisdale
 
-- [Espagne en Armes](SpainArms.pdf)
+- [Espagne en Armes](SpainArms.pdf) - Edward R. Hooton
 
 
 # DIVERS
