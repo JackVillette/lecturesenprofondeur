@@ -141,6 +141,8 @@ Collectif :
   
 # [Divers](divers.md)
 
+- Théorie du Combat - C. von Clausewitz
+
 - La Police Secrète dans la Russie de Lénine - Lennard D. Gerson
 
 - Réflexions générales sur la Campagne du Bade - L. Mieroslawski
