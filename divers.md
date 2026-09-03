@@ -4,6 +4,8 @@ title: Divers
 permalink: /divers/
 ---
 
+- [La Théorie du Combat](ThéorieCombat.pdf) - Carl von Clausewitz
+
 - [La Police Secrète dans la Russie de Lénine](Tchéka.pdf) - Lennard D. Gerson
 
 - [Réflexions générales sur la Campagne du Bade](Réflexions générales.pdf) - Ludwik Mieroslawski
