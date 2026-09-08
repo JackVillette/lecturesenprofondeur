@@ -6,9 +6,11 @@ permalink: /armeerouge/
 
 # Collection "Armée Rouge"
 
-Règlements de terrain de l'Armée Rouge :
-- [Règlement de terrain de 1929](PU-29.pdf)
-- [Règlement de terrain de 1936](PU-36.pdf)
+*Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
+
+[La Guerre Civile Russe, 1918-1921](guerrecivilerusse.md) - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
+
+[Aigle blanc, Etoile rouge : la Guerre soviéto-polonaise](ABER.pdf) - Norman Davies
 
 [La Guerre Civile et l'Armée Rouge](CivWarRedArmy.pdf) - S.I. Gusev
 
@@ -18,17 +20,20 @@ Règlements de terrain de l'Armée Rouge :
 
 [Le Développement de l'Art Opératif Russo-Soviétique, 1904-1937](DéveloppementArtOpératif.pdf) - Richard W. Harrison
 
+
+#### Règlements de terrain de l'Armée Rouge :
+- [Règlement de terrain de 1929](PU-29.pdf)
+- [Règlement de terrain de 1936](PU-36.pdf)
+
+#### OPERATIONS DE LA SECONDE GUERRE MONDIALE
+
 La Bataille de Koursk - Richard W. Harrison
 - [Livre 1 : La Bataille Défensive (Juillet 1943)](Koursk1.pdf)
 - Livre 2 : La Défaite des Allemands (Juillet-Août 1943)
 
-*Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
-
-[La Guerre Civile Russe, 1918-1921](guerrecivilerusse.md) - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
-
 [La Guerre de Staline contre le Japon](manchou.md) - Charles Stephenson
 
-[Aigle blanc, Etoile rouge : la Guerre soviéto-polonaise](ABER.pdf) - Norman Davies
+
 
 [Stratégie militaire](StratégieMilitaireSokolovsky.pdf) - V.D. Sokolovsky
 
