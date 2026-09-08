@@ -81,35 +81,35 @@ Collectif :
     
 # [Collection "Armée Rouge"](armeerouge.md)
 
-*Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
+- *Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
 
-La Guerre Civile Russe, 1918-1921 - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
+- La Guerre Civile Russe, 1918-1921 - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
 
-Aigle blanc, Etoile rouge : la Guerre soviéto-polonaise - Norman Davies
+- Aigle blanc, Etoile rouge : la Guerre soviéto-polonaise - Norman Davies
 
-La Guerre Civile et l'Armée Rouge - S.I. Gusev
+- La Guerre Civile et l'Armée Rouge - S.I. Gusev
 
-La Cavalerie dans l'expérience des guerres mondiale et civile - A.L. Pevnev
+- La Cavalerie dans l'expérience des guerres mondiale et civile - A.L. Pevnev
 
-Vie et Théories de G. Isserson - Richard W. Harrison
+- Vie et Théories de G. Isserson - Richard W. Harrison
 
-Le Développement de l'Art Opératif Russo-Soviétique, 1904-1937 - Richard W. Harrison
+- Le Développement de l'Art Opératif Russo-Soviétique, 1904-1937 - Richard W. Harrison
 
-Règlements de terrain de l'Armée Rouge
+- Règlements de terrain de l'Armée Rouge
 
-OPERATIONS DE LA SECONDE GUERRE MONDIALE
+- OPERATIONS DE LA SECONDE GUERRE MONDIALE
 
-La Bataille de Koursk - Richard W. Harrison
+  - La Bataille de Koursk - Richard W. Harrison
 
-La Guerre de Staline contre le Japon - Charles Stephenson
+  - La Guerre de Staline contre le Japon - Charles Stephenson
 
-Stratégie militaire - V.D. Sokolovsky
+- Stratégie militaire - V.D. Sokolovsky
 
-L'Art Opératif Militaire Soviétique - David Glantz
+- L'Art Opératif Militaire Soviétique - David Glantz
 
-L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941) - Mikhaïl Mukhin
+- L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941) - Mikhaïl Mukhin
 
-Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif - Jacob Kipp
+- Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif - Jacob Kipp
 
 # [Collection "Théorie/Histoire militaire"](milhist.md)
 
