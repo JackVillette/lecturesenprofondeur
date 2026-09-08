@@ -81,35 +81,35 @@ Collectif :
     
 # [Collection "Armée Rouge"](armeerouge.md)
 
-- Règlements de terrain de l'Armée Rouge
+*Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
 
-- Vie et Théories de G. Isserson - R.W. Harrison
+La Guerre Civile Russe, 1918-1921 - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
 
-- Le Développement de l'Art Opératif russo-soviétique - R.W. Harrison
+Aigle blanc, Etoile rouge : la Guerre soviéto-polonaise - Norman Davies
 
-- La Bataille de Koursk - R.W. Harrison
+La Guerre Civile et l'Armée Rouge - S.I. Gusev
 
-- La Guerre Civile et l'Armée Rouge - S.I. Gusev
+La Cavalerie dans l'expérience des guerres mondiale et civile - A.L. Pevnev
 
-- La Cavalerie dans l'expérience des guerres mondiale et civile - A.L. Pevnev
+Vie et Théories de G. Isserson - Richard W. Harrison
 
-- *Armée rouge ouvrière et paysanne : Manuel pour les instructeurs politiques*
+Le Développement de l'Art Opératif Russo-Soviétique, 1904-1937 - Richard W. Harrison
 
-- La Guerre Civile Russe, 1918-1921 - A.S. Boubnov, S.S. Kamenev, M.A. Toukhatchevski & R.P. Eideman
+Règlements de terrain de l'Armée Rouge
 
-- Aigle blanc, Etoile rouge : la Guerre soviéto-polonaise - N. Davies
+OPERATIONS DE LA SECONDE GUERRE MONDIALE
 
-- La Guerre de Staline contre le Japon - C. Stephenson
+La Bataille de Koursk - Richard W. Harrison
 
-- Stratégie militaire - V.D. Sokolovsky
+La Guerre de Staline contre le Japon - Charles Stephenson
 
-- L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941) - M. Mukhin
+Stratégie militaire - V.D. Sokolovsky
 
-- L'Art Opératif Militaire Soviétique - D. Glantz
+L'Art Opératif Militaire Soviétique - David Glantz
 
-- *Combat Opérationnel et Tactique Soviétique en Mandchourie 1945* - D. Glantz
-  
-- Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif
+L'Évolution du Système de gestion de l'industrie de défense soviétique (1921-1941) - Mikhaïl Mukhin
+
+Masse, Mobilité et Voie de l'Armée Rouge vers l'art opératif - Jacob Kipp
 
 # [Collection "Théorie/Histoire militaire"](milhist.md)
 
