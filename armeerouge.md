@@ -29,7 +29,7 @@ permalink: /armeerouge/
 
 La Bataille de Koursk - Richard W. Harrison
 - [Livre 1 : La Bataille Défensive (Juillet 1943)](Koursk1.pdf)
-- Livre 2 : La Défaite des Allemands (Juillet-Août 1943)
+- [Livre 2 : La Défaite des Allemands (Juillet-Août 1943)](Koursk2.pdf)
 
 [La Guerre de Staline contre le Japon](manchou.md) - Charles Stephenson
 
