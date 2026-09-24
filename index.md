@@ -117,8 +117,6 @@ Collectif :
 
 - Principes tactique et stratégique du présent - S. Schlichting
 
-- Comprendre la guerre : Histoire et Théorie du Combat - T.N. Dupuy
-
 - Invasion 1914 : Du Plan Schlieffen à la Bataille de la Marne - I. Senior
 
 - Steel Wind : Le Colonel Georg Bruchmüller et la Naissance de l'Artillerie Moderne - D. T. Zabecki
@@ -128,6 +126,8 @@ Collectif :
 - La Guerre Civile Espagnole : une histoire militaire - C. J. Esdaile
 
 - Espagne en Armes - E.R. Hooton
+
+- Comprendre la guerre : Histoire et Théorie du Combat - T.N. Dupuy
 
 - L'Art de la Guerre Mongol - T. May
 
