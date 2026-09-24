@@ -46,6 +46,8 @@ permalink: /milhist/
 
 ## DIVERS
 
+[Comprendre la guerre : Histoire et Théorie du Combat](HTC.pdf) - Trevor N. Dupuy
+
 [L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf) - Timothy May
 
 [Cavalerie : Histoire de la Guerre Montée](Cavalerie.pdf) - John Ellis
