@@ -48,6 +48,8 @@ permalink: /milhist/
 
 [Comprendre la guerre : Histoire et Théorie du Combat](HTC.pdf) - Trevor N. Dupuy
 
+[De la Tactique](FriedmanTactique.pdf) & Des Opérations - Brett A. Friedman
+
 [L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf) - Timothy May
 
 [Cavalerie : Histoire de la Guerre Montée](Cavalerie.pdf) - John Ellis
