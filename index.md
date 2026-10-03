@@ -129,6 +129,8 @@ Collectif :
 
 - Comprendre la guerre : Histoire et Théorie du Combat - T.N. Dupuy
 
+- De la Tactique & Des Opérations - B.A. Friedman
+
 - L'Art de la Guerre Mongol - T. May
 
 - Cavalerie : Histoire de la guerre montée - J. Ellis
