@@ -48,7 +48,7 @@ permalink: /milhist/
 
 [Comprendre la guerre : Histoire et Théorie du Combat](HTC.pdf) - Trevor N. Dupuy
 
-[De la Tactique : une théorie de la victoire dans le combat](FriedmanTactique.pdf) & Des Opérations : Art opérationnel et disciplines militaires - Brett A. Friedman
+[De la Tactique : une théorie de la victoire dans le combat](FriedmanTactique.pdf) & [Des Opérations : Art opérationnel et disciplines militaires](FriedmanOpérations.pdf) - Brett A. Friedman
 
 [L'Art de la Guerre Mongol](L'Art de la Guerre Mongol.pdf) - Timothy May
 
