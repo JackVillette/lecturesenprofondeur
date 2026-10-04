@@ -147,6 +147,8 @@ Collectif :
 
 - Théorie du Combat - C. von Clausewitz
 
+- Feu et Mouvement - E. Jünger
+
 - La Police Secrète dans la Russie de Lénine - Lennard D. Gerson
 
 - Réflexions générales sur la Campagne du Bade - L. Mieroslawski
