@@ -26,4 +26,4 @@ permalink: /divers/
   
 - [L'Impact des Drones sur la Guerre de Manoeuvre](DroneManoeuvre.pdf) - Major Justin Salter
 
-
+- [Les "Marxistes militaires" contre Trotski](Mochkine.pdf) - S.V. Mochkine
