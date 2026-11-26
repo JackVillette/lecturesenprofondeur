@@ -167,6 +167,8 @@ Collectif :
 
 - L'Impact des Drones sur la Guerre de Manoeuvre - Major J. Salter
 
+- Les "Marxistes militaires" contre Trotski - S.V. Mochkine
+
   
   
   
